@@ -1,0 +1,6 @@
+#!./python3
+if __name__ == '__main__':
+    import sys
+    from IPython.parallel.apps.ipclusterapp import launch_new_instance
+
+    sys.exit(launch_new_instance())

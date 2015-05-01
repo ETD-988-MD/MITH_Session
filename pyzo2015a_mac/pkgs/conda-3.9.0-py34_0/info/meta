@@ -1,0 +1,11 @@
+pkg: conda-3.9.0
+dist: conda-3.9.0-py34_0
+home: http://conda.pydata.org/
+license: BSD
+has_bin: True
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

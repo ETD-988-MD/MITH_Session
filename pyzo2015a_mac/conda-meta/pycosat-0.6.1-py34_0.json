@@ -1,0 +1,27 @@
+{
+  "arch": "x86_64",
+  "build": "py34_0",
+  "build_number": 0,
+  "channel": "http://repo.continuum.io/pkgs/free/osx-64/",
+  "depends": [
+    "python 3.4*"
+  ],
+  "files": [
+    "lib/python3.4/site-packages/__pycache__/test_pycosat.cpython-34.pyc",
+    "lib/python3.4/site-packages/pycosat-0.6.1-py3.4.egg-info",
+    "lib/python3.4/site-packages/pycosat.so",
+    "lib/python3.4/site-packages/test_pycosat.py"
+  ],
+  "license": "MIT",
+  "link": {
+    "source": "/Users/almar/anaconda34/pkgs/pycosat-0.6.1-py34_0",
+    "type": "hard-link"
+  },
+  "md5": "9f65f6afa541fbe8aeaa1453b413ab0b",
+  "name": "pycosat",
+  "platform": "osx",
+  "requires": [],
+  "size": 54179,
+  "url": "http://repo.continuum.io/pkgs/free/osx-64/pycosat-0.6.1-py34_0.tar.bz2",
+  "version": "0.6.1"
+}

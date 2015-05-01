@@ -1,0 +1,307 @@
+Initiating Pyzo-distro build process at 17-02-2015 12:18 UTC.
+Building with Python 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)] on Almars-Mac-Pro.local.
+Pyzo-distro version name: 2015a
+Pyzo-distro version number: 0.2.6
+===== Build step 1/14: clear target dir 
+===== Build step 2/14: create conda env 
+Fetching package metadata: ......
+Solving package specifications: .
+Package plan for installation in environment /Users/almar/pyzo2015a:
+
+The following NEW packages will be INSTALLED:
+
+    openssl:     1.0.1k-0    
+    pip:         6.0.8-py34_0
+    psutil:      2.2.0-py34_0
+    pycosat:     0.6.1-py34_0
+    pyside-pyzo: 1.2.1-py34_4
+    python:      3.4.2-0     
+    pyyaml:      3.11-py34_0 
+    readline:    6.2-2       
+    setuptools:  12.2-py34_0 
+    sqlite:      3.8.4.1-0   
+    tk:          8.5.15-0    
+    xz:          5.0.5-0     
+    yaml:        0.1.4-1     
+    zlib:        1.2.8-0     
+
+#
+# To activate this environment, use:
+# $ source activate /Users/almar/pyzo2015a
+#
+# To deactivate this environment, use:
+# $ source deactivate
+#
+===== Build step 3/14: install conda 
+Fetching package metadata: ...
+Solving package specifications: .
+Package plan for installation in environment /Users/almar/pyzo2015a:
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    conda-3.9.0                |           py34_0         167 KB
+    conda-env-2.1.3            |           py34_0          15 KB
+    requests-2.5.1             |           py34_0         616 KB
+    ------------------------------------------------------------
+                                           Total:         798 KB
+
+The following NEW packages will be INSTALLED:
+
+    conda:     3.9.0-py34_0
+    conda-env: 2.1.3-py34_0
+    requests:  2.5.1-py34_0
+
+===== Build step 4/14: install more packages via conda 
+install scipy stack
+Solving package specifications: .
+Package plan for installation in environment /Users/almar/pyzo2015a:
+
+The following NEW packages will be INSTALLED:
+
+    dateutil:   2.1-py34_2       
+    fastcache:  1.0.1-py34_0     
+    freetype:   2.4.10-1         
+    ipython:    2.4.1-py34_0     
+    jinja2:     2.7.3-py34_1     
+    libpng:     1.5.13-1         
+    libsodium:  0.4.5-0          
+    markupsafe: 0.23-py34_0      
+    matplotlib: 1.4.2-np19py34_0 
+    nose:       1.3.4-py34_0     
+    numpy:      1.9.1-py34_0     
+    pandas:     0.15.2-np19py34_0
+    pyparsing:  2.0.1-py34_0     
+    python.app: 1.2-py34_3       
+    pytz:       2014.9-py34_0    
+    pyzmq:      14.5.0-py34_0    
+    scipy:      0.15.1-np19py34_0
+    six:        1.9.0-py34_0     
+    sympy:      0.7.6-py34_0     
+    tornado:    4.1-py34_0       
+    zeromq:     4.0.4-0          
+
+Error: no packages found to remove from environment: /Users/almar/pyzo2015a
+Solving package specifications: .
+Package plan for installation in environment /Users/almar/pyzo2015a:
+
+The following packages will be UPDATED:
+
+    pyside-pyzo: 1.2.1-py34_4 --> 1.2.1-py34_4
+
+install more
+Solving package specifications: .
+Package plan for installation in environment /Users/almar/pyzo2015a:
+
+The following NEW packages will be INSTALLED:
+
+    pygments:     2.0.2-py34_0     
+    scikit-image: 0.10.1-np19py34_0
+    scikit-learn: 0.15.2-np19py34_0
+
+install pyzo specific
+Solving package specifications: .
+Package plan for installation in environment /Users/almar/pyzo2015a:
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    iep-3.6.1                  |           py34_0         1.6 MB
+
+The following NEW packages will be INSTALLED:
+
+    cx_freeze: 4.3.3-py34_4  
+    iep:       3.6.1-py34_0  
+    imageio:   1.1-py34_0    
+    pyopengl:  3.1.0b3-py34_0
+    pyzolib:   0.3.3-py34_0  
+    visvis:    1.9.1-py34_1  
+
+Solving package specifications: .
+Package plan for installation in environment /Users/almar/pyzo2015a:
+
+The following packages will be UPDATED:
+
+    pyside-pyzo: 1.2.1-py34_4 --> 1.2.1-py34_4
+
+===== Build step 5/14: install own packages 
+no modules require installation in this way
+# prefix: /Users/almar/pyzo2015a
+===== Build step 6/14: build executables 
+writing to /var/folders/yz/yziMjEQcFreY2l80YpBhTU+++TI/-Tmp-/tmpsto7ekdm/python.c
+Compiling /Users/almar/py/pyzo_build/exe/src/pyzo.c
+Compiling /var/folders/yz/yziMjEQcFreY2l80YpBhTU+++TI/-Tmp-/tmpsto7ekdm/python.c
+Linking python
+writing to /var/folders/yz/yziMjEQcFreY2l80YpBhTU+++TI/-Tmp-/tmpsto7ekdm/python.c
+Linking pythonw
+Replaced refs for "pythonw": libpython3.4m.dylib
+Replaced refs for "python": libpython3.4m.dylib
+Created python executable
+Missing modules:
+? Cookie imported from requests.compat
+? OpenSSL.SSL imported from requests.packages.urllib3.contrib.pyopenssl
+? PySide imported from cx_Freeze.hooks, cx_Freeze.macdist, pyzo_build.builder
+? StringIO imported from requests.compat, requests.packages.urllib3.packages.six
+? Tkinter imported from cx_Freeze.hooks
+? __builtin__ imported from psutil._compat
+? __pyzo__ imported from base__main__, basew__main__, cx_Freeze__init__
+? _abcoll imported from requests.packages.urllib3.packages.ordered_dict
+? _dummy_threading imported from dummy_threading
+? _license imported from conda.cli.main_info
+? _psutil_bsd imported from psutil._psbsd
+? _psutil_linux imported from psutil._pslinux
+? _psutil_mswindows imported from psutil._psmswindows
+? _psutil_sunos imported from psutil._pssunos
+? _winapi imported from multiprocessing.connection, multiprocessing.heap, multiprocessing.popen_spawn_win32, multiprocessing.reduction, subprocess
+? _winreg imported from binstar_client.utils.appdirs, cx_Freeze.dist
+? argcomplete imported from conda.cli.main
+? backports.ssl_match_hostname imported from requests.packages.urllib3.packages.ssl_match_hostname
+? cStringIO imported from conda.compat
+? ce imported from os
+? certifi imported from requests.certs
+? cookielib imported from requests.compat
+? dummy_thread imported from requests.packages.urllib3.packages.ordered_dict
+? httplib imported from requests.packages.urllib3.connection
+? java.lang imported from platform
+? menuinst imported from conda.install
+? msilib imported from cx_Freeze.windist, distutils.command.bdist_msi
+? msvcrt imported from getpass, multiprocessing.popen_spawn_win32, multiprocessing.spawn, subprocess
+? multiprocessing.AuthenticationError imported from multiprocessing.connection
+? multiprocessing.BufferTooShort imported from multiprocessing.connection
+? multiprocessing.SimpleQueue imported from concurrent.futures.process
+? multiprocessing.TimeoutError imported from multiprocessing.pool
+? multiprocessing.get_context imported from multiprocessing.managers, multiprocessing.pool, multiprocessing.sharedctypes
+? multiprocessing.get_start_method imported from multiprocessing.spawn
+? multiprocessing.set_start_method imported from multiprocessing.spawn
+? ndg.httpsclient.ssl_peer_verification imported from requests.packages.urllib3.contrib.pyopenssl
+? ndg.httpsclient.subj_alt_name imported from requests.packages.urllib3.contrib.pyopenssl
+? netbios imported from uuid
+? nt imported from os, shutil
+? ntpath imported from os
+? nturl2path imported from urllib.request
+? numpy imported from pyzolib.ssdf.ssdf_base
+? org.python.core imported from copy, pickle
+? os.path imported from binstar_client.utils, conda.api, conda.bundle, conda.cli.activate, conda.cli.common, conda.cli.find_commands, conda.cli.help, conda.cli.install, conda.cli.main, conda.cli.main_clean, conda.cli.main_info, conda.cli.main_init, conda.cli.main_list, conda.cli.main_remove, conda.cli.pscheck, conda.config, conda.fetch, conda.history, conda.install, conda.lock, conda.misc, conda.packup, conda.pip, conda.plan, conda.share, conda.utils, conda_build.config, conda_build.external, conda_build.source, conda_build.utils, distutils.file_util, os, pkgutil, py_compile, requests.certs, shutil, sysconfig, unittest.util
+? pyasn1.codec.der imported from requests.packages.urllib3.contrib.pyopenssl
+? pyasn1.type imported from requests.packages.urllib3.contrib.pyopenssl
+? pythoncom imported from cx_Freeze.hooks
+? pywintypes imported from cx_Freeze.hooks
+? simplejson imported from requests.compat
+? thread imported from requests.packages.urllib3.packages.ordered_dict
+? urllib.getproxies imported from requests.compat
+? urllib.proxy_bypass imported from requests.compat
+? urllib.quote imported from conda.compat, requests.compat
+? urllib.quote_plus imported from binstar_client.utils, requests.compat
+? urllib.unquote imported from requests.compat
+? urllib.unquote_plus imported from requests.compat
+? urllib.urlencode imported from requests.compat, requests.packages.urllib3.request
+? urllib2 imported from requests.compat
+? urlparse imported from binstar_client.utils, conda.compat, requests.compat, requests.packages.urllib3.poolmanager
+? vms_lib imported from platform
+? win32api imported from binstar_client.utils.appdirs, platform
+? win32com.shell imported from binstar_client.utils.appdirs
+? win32con imported from platform
+? win32verstamp imported from cx_Freeze.freezer
+? win32wnet imported from uuid
+? winreg imported from cx_Freeze.dist, mimetypes, platform, pyzolib.interpreters.inwinreg, urllib.request
+This is not necessarily a problem - the modules may not be needed on this platform.
+
+ERR: /Users/almar/anaconda34/lib/python3.4/site-packages/cx_Freeze/freezer.py:578: UserWarning: Duplicate name: 'importlib/__init__.pyc'
+  outFile.writestr(zinfo, data)
+  Installing dependency: libintl.8.dylib
+Replaced refs for "libpython": libintl.8.dylib
+Replaced refs for "basew": libpython
+Replaced refs for "base": libpython
+  Installing dependency: libiconv.2.dylib
+Replaced refs for "libintl.8.dylib": libiconv.2.dylib
+creating exe: pyzo
+creating exe: IEP
+creating exe: pyzo_activate
+creating exe: ipython_qtconsole
+creating exe: ipython_notebook
+===== Build step 7/14: populate root dir 
+Copy Pyzo icons
+Copy application icons
+Copy EULA
+Create local settings dir
+Write condarc file
+===== Build step 8/14: configuring matplotlib 
+For Matplotlib config set backend to Qt4Agg
+For Matplotlib config set backend.qt4 to PySide
+For Matplotlib config set interactive to True
+Configured MPL to use PySide
+===== Build step 9/14: install qt menu nib 
+===== Build step 10/14: install qt conf 
+===== Build step 11/14: install extra dynamic libraries 
+Installed libfreeimage.dylib
+===== Build step 12/14: make shebangs relative 
+SKIP .openssl-libcrypto-fix: cannot decode (probably binary)
+SKIP .openssl-post-link.sh: no Python shebang to replace
+SKIP .python.app-post-link.sh: no Python shebang to replace
+SKIP .python.app-pre-unlink.sh: no Python shebang to replace
+FIXED 2to3-3.4
+SKIP activate: no Python shebang to replace
+SKIP c_rehash: no Python shebang to replace
+FIXED conda
+FIXED conda-env
+FIXED curve_keygen
+SKIP deactivate: no Python shebang to replace
+FIXED easy_install
+FIXED f2py3
+SKIP freetype-config: no Python shebang to replace
+FIXED idle3.4
+FIXED iep
+FIXED ipcluster
+FIXED ipcontroller
+FIXED ipengine
+FIXED iplogger
+FIXED iptest
+FIXED ipython
+FIXED irunner
+SKIP isympy: > 10kB (probably binary)
+SKIP libpng15-config: no Python shebang to replace
+SKIP linguist: > 10kB (probably binary)
+SKIP lrelease: > 10kB (probably binary)
+SKIP lupdate: > 10kB (probably binary)
+FIXED nosetests
+SKIP openssl: > 10kB (probably binary)
+FIXED pip
+FIXED pycolor
+FIXED pydoc3.4
+FIXED pygmentize
+SKIP pyside-lupdate: > 10kB (probably binary)
+SKIP pyside-rcc: > 10kB (probably binary)
+FIXED pyside-uic
+SKIP python.app: no Python shebang to replace
+SKIP python3.4: cannot decode (probably binary)
+SKIP python3.4m: cannot decode (probably binary)
+FIXED python3.4m-config
+SKIP pythonw: no Python shebang to replace
+FIXED pyvenv-3.4
+SKIP qt.conf: no Python shebang to replace
+SKIP shiboken: > 10kB (probably binary)
+SKIP tclsh8.5: > 10kB (probably binary)
+SKIP wish8.5: > 10kB (probably binary)
+Modified 23 shebangs
+Created shebangfix script.
+===== Build step 13/14: cleanup target dir 
+Removed 827 __pycache__ directories
+===== Build step 14/14: make package from what we added 
+# prefix: /Users/almar/pyzo2015a
+# files: 58
+# success
+pyzo_files-0.0-0.tar.bz2
+# prefix: /Users/almar/pyzo2015a
+Fetching package metadata: ......
+Solving package specifications: .
+# All requested packages already installed.
+# packages in environment at /Users/almar/pyzo2015a:
+#
+
+1
+===== Done!
+Building Python distro took 182 seconds.
+None

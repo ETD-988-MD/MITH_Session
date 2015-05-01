@@ -1,0 +1,13 @@
+prefix=/Users/almar/pyzo2015a
+exec_prefix=/Users/almar/pyzo2015a
+libdir=/Users/almar/pyzo2015a/lib
+includedir=/Users/almar/pyzo2015a/include/shiboken
+generator_location=/Users/almar/pyzo2015a/bin/shiboken
+python_interpreter=/Users/almar/pyzo2015a/bin/python3
+python_include_dir=/Users/almar/pyzo2015a/include/python3.4m
+
+Name: shiboken
+Description: Support library for Python bindings created with Shiboken generator.
+Version: 1.2.1
+Libs: -undefined dynamic_lookup -L${libdir} -lshiboken.cpython-34m
+Cflags: -I/Users/almar/pyzo2015a/include/python3.4m -I${includedir}/

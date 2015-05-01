@@ -1,0 +1,14 @@
+prefix=/Users/almar/pyzo2015a
+exec_prefix=/Users/almar/pyzo2015a
+libdir=/Users/almar/pyzo2015a/lib
+includedir=/Users/almar/pyzo2015a/include/PySide
+typesystemdir=/Users/almar/pyzo2015a/share/PySide/typesystems
+pythonpath=/Users/almar/pyzo2015a/lib/python3.4/site-packages
+
+Name: PySide
+Description: Support library for Python bindings of Qt-based libraries.
+Version: 1.2.1
+Libs: -L${libdir} -lpyside.cpython-34m
+Cflags: -I${includedir}
+Requires: shiboken
+

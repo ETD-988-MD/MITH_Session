@@ -1,0 +1,23 @@
+{
+  "arch": "x86_64", 
+  "build": "py34_0", 
+  "build_number": 0, 
+  "depends": [
+    "conda-env", 
+    "pycosat", 
+    "python 3.4*", 
+    "pyyaml", 
+    "requests"
+  ], 
+  "license": "BSD", 
+  "name": "conda", 
+  "platform": "osx", 
+  "requires": [
+    "conda-env 2.1.3", 
+    "pycosat 0.6.1", 
+    "python 3.4", 
+    "pyyaml 3.11", 
+    "requests 2.5.1"
+  ], 
+  "version": "3.9.0"
+}

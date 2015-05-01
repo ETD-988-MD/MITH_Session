@@ -1,0 +1,4 @@
+# Configuration file for Conda
+channels:
+  - http://conda.binstar.org/pyzo
+  - defaults

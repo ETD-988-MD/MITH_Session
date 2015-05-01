@@ -1,0 +1,27 @@
+{
+  "arch": "x86_64",
+  "build": "1",
+  "build_number": 1,
+  "channel": "http://repo.continuum.io/pkgs/free/osx-64/",
+  "depends": [],
+  "files": [
+    "include/yaml.h",
+    "lib/libyaml-0.2.dylib",
+    "lib/libyaml.a",
+    "lib/libyaml.dylib",
+    "lib/libyaml.la",
+    "lib/pkgconfig/yaml-0.1.pc"
+  ],
+  "license": "MIT (http://www.yaml.org/spec/1.2/spec.html)",
+  "link": {
+    "source": "/Users/almar/anaconda34/pkgs/yaml-0.1.4-1",
+    "type": "hard-link"
+  },
+  "md5": "66ad49f48ca5ae54e024ff7674a945fc",
+  "name": "yaml",
+  "platform": "osx",
+  "requires": [],
+  "size": 80160,
+  "url": "http://repo.continuum.io/pkgs/free/osx-64/yaml-0.1.4-1.tar.bz2",
+  "version": "0.1.4"
+}

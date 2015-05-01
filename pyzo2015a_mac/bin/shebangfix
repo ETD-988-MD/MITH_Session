@@ -1,0 +1,4 @@
+#!./python3
+from pyzolib import shebang
+shebang.fix()
+

@@ -1,0 +1,632 @@
+{
+  "_url": "https://conda.binstar.org/pyzo/osx-64/",
+  "info": {
+    "arch": "x86_64",
+    "default_numpy_version": "1.7",
+    "default_python_version": "2.7",
+    "platform": "osx"
+  },
+  "packages": {
+    "cx_freeze-4.3.1-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "5252b8ce59466e0dcccd92ad"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*"
+      ],
+      "md5": "28fafea20d8a4b46d7ece915ab3719c5",
+      "name": "cx_freeze",
+      "platform": "osx",
+      "requires": [],
+      "size": 336662,
+      "version": "4.3.1"
+    },
+    "cx_freeze-4.3.2-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "5252b8ce59466e0dcccd92ad"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://cx-freeze.sourceforge.net/",
+      "license": "cx-freeze license",
+      "md5": "b79328f15493eaf8f703676a2adaa9a1",
+      "name": "cx_freeze",
+      "platform": "osx",
+      "requires": [],
+      "size": 1897885,
+      "version": "4.3.2"
+    },
+    "cx_freeze-4.3.3-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "5252b8ce59466e0dcccd92ad"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://cx-freeze.sourceforge.net/",
+      "license": "cx-freeze license",
+      "md5": "5de406f26d26b5d61bf8dba0b2d337e5",
+      "name": "cx_freeze",
+      "platform": "osx",
+      "requires": [],
+      "size": 1897888,
+      "version": "4.3.3"
+    },
+    "cx_freeze-4.3.3-py34_1.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "5252b8ce59466e0dcccd92ad"
+      },
+      "build": "py34_1",
+      "build_number": 1,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://cx-freeze.sourceforge.net/",
+      "license": "cx-freeze license",
+      "md5": "92a7647fe78e4fde2cb66c052e6401b4",
+      "name": "cx_freeze",
+      "platform": "osx",
+      "requires": [],
+      "size": 1898447,
+      "version": "4.3.3"
+    },
+    "cx_freeze-4.3.3-py34_4.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "5252b8ce59466e0dcccd92ad"
+      },
+      "build": "py34_4",
+      "build_number": 4,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://cx-freeze.sourceforge.net/",
+      "license": "cx-freeze license",
+      "md5": "02336e8e4989e7666a2e2d569c4d97bb",
+      "name": "cx_freeze",
+      "platform": "osx",
+      "requires": [],
+      "size": 1928358,
+      "version": "4.3.3"
+    },
+    "iep-3.3-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e68d259466e6e55f6b33a"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*",
+        "pyzolib"
+      ],
+      "md5": "1f34c38d191942d6b00642afb09e33e9",
+      "name": "iep",
+      "platform": "osx",
+      "requires": [],
+      "size": 1621960,
+      "version": "3.3"
+    },
+    "iep-3.3.2-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e68d259466e6e55f6b33a"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*",
+        "pyzolib"
+      ],
+      "md5": "eb12354a06d1b07568e6d22e8d273199",
+      "name": "iep",
+      "platform": "osx",
+      "requires": [],
+      "size": 1622428,
+      "version": "3.3.2"
+    },
+    "iep-3.4-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e68d259466e6e55f6b33a"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*",
+        "pyzolib"
+      ],
+      "home_page": "http://iep-project.org",
+      "license": "BSD",
+      "md5": "436f296b952748893691eace59fe8a4d",
+      "name": "iep",
+      "platform": "osx",
+      "requires": [],
+      "size": 1655473,
+      "version": "3.4"
+    },
+    "iep-3.5-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e68d259466e6e55f6b33a"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*",
+        "pyzolib"
+      ],
+      "home_page": "http://iep-project.org",
+      "license": "BSD",
+      "md5": "07025cf5782a789e109061afef539f85",
+      "name": "iep",
+      "platform": "osx",
+      "requires": [],
+      "size": 1666118,
+      "version": "3.5"
+    },
+    "iep-3.6-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e68d259466e6e55f6b33a"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*",
+        "pyzolib"
+      ],
+      "home_page": "http://iep-project.org",
+      "license": "BSD",
+      "md5": "99dac929ad7e36835dcd2a2002605278",
+      "name": "iep",
+      "platform": "osx",
+      "requires": [],
+      "size": 1693997,
+      "version": "3.6"
+    },
+    "iep-3.6-py34_2.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e68d259466e6e55f6b33a"
+      },
+      "build": "py34_2",
+      "build_number": 2,
+      "depends": [
+        "python 3.4*",
+        "pyzolib"
+      ],
+      "home_page": "http://iep-project.org",
+      "license": "BSD",
+      "md5": "60a2865ba32a1de364c8ccfc74a31f5a",
+      "name": "iep",
+      "platform": "osx",
+      "requires": [],
+      "size": 1692884,
+      "version": "3.6"
+    },
+    "iep-3.6.1-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e68d259466e6e55f6b33a"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*",
+        "pyzolib"
+      ],
+      "home_page": "http://iep-project.org",
+      "license": "BSD",
+      "md5": "61e86889cef109379c844489d47ae7bd",
+      "name": "iep",
+      "platform": "osx",
+      "requires": [],
+      "size": 1693885,
+      "version": "3.6.1"
+    },
+    "imageio-0.4.1-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e43f459466e6e55f6b32e"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*"
+      ],
+      "md5": "8f956659a3f7cdd7373517594b16d357",
+      "name": "imageio",
+      "platform": "osx",
+      "requires": [],
+      "size": 2369283,
+      "version": "0.4.1"
+    },
+    "imageio-0.5.1-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e43f459466e6e55f6b32e"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://imageio.readthedocs.org",
+      "license": "BSD",
+      "md5": "7baca849356f66d0ab228a05272c2f41",
+      "name": "imageio",
+      "platform": "osx",
+      "requires": [],
+      "size": 1654877,
+      "version": "0.5.1"
+    },
+    "imageio-1.0-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e43f459466e6e55f6b32e"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "license": "BSD License",
+      "machine": "x86_64",
+      "md5": "669d031fcde2a31d96090b4305dbfe6a",
+      "name": "imageio",
+      "operatingsystem": "darwin",
+      "platform": "osx",
+      "requires": [],
+      "size": 124090,
+      "target-triplet": "x86_64-any-darwin",
+      "version": "1.0"
+    },
+    "imageio-1.1-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e43f459466e6e55f6b32e"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://imageio.readthedocs.org",
+      "license": "BSD",
+      "md5": "02ca955176861c1f9d8b43c952e7b247",
+      "name": "imageio",
+      "platform": "osx",
+      "requires": [],
+      "size": 161166,
+      "version": "1.1"
+    },
+    "pyopengl-3.0.2-py33_2.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "52244fd459466e73a9c37662"
+      },
+      "build": "py33_2",
+      "build_number": 2,
+      "depends": [
+        "python 3.3*"
+      ],
+      "md5": "d7343d9a9495cc0151c6eca812fc6ea9",
+      "name": "pyopengl",
+      "platform": "osx",
+      "requires": [],
+      "size": 701669,
+      "version": "3.0.2"
+    },
+    "pyopengl-3.1.0b3-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "52244fd459466e73a9c37662"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://pyopengl.sourceforge.net",
+      "license": "BSD",
+      "md5": "e8650d995e93454fc61a99aa7113099f",
+      "name": "pyopengl",
+      "platform": "osx",
+      "requires": [],
+      "size": 1043342,
+      "version": "3.1.0b3"
+    },
+    "pyside-pyzo-1.2.1-py33_4.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "5252a7b159466e0dcccd92aa"
+      },
+      "build": "py33_4",
+      "build_number": 4,
+      "depends": [
+        "python 3.3*"
+      ],
+      "md5": "bc8ca168e3b5b05fd0da9720171aa27a",
+      "name": "pyside-pyzo",
+      "platform": "osx",
+      "requires": [],
+      "size": 31844956,
+      "version": "1.2.1"
+    },
+    "pyside-pyzo-1.2.1-py34_4.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "5252a7b159466e0dcccd92aa"
+      },
+      "build": "py34_4",
+      "build_number": 4,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "https://pypi.python.org/pypi/PySide",
+      "license": "LGPL",
+      "md5": "a6cd3aaa990e5f98a45fea17c244ba99",
+      "name": "pyside-pyzo",
+      "platform": "osx",
+      "requires": [],
+      "size": 30978842,
+      "version": "1.2.1"
+    },
+    "pyzolib-0.2.5-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "51dd87f759466e3e6853eaf7"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*"
+      ],
+      "md5": "6e6aa911c6f6220d04bc3e4a198ae323",
+      "name": "pyzolib",
+      "platform": "osx",
+      "requires": [],
+      "size": 76406,
+      "version": "0.2.5"
+    },
+    "pyzolib-0.2.6-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "51dd87f759466e3e6853eaf7"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*"
+      ],
+      "md5": "4e17004db57b8101188867eb8b683a27",
+      "name": "pyzolib",
+      "platform": "osx",
+      "requires": [],
+      "size": 78435,
+      "version": "0.2.6"
+    },
+    "pyzolib-0.2.7-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "51dd87f759466e3e6853eaf7"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*"
+      ],
+      "md5": "90bc73ffd08a306d67c987ba1a484e30",
+      "name": "pyzolib",
+      "platform": "osx",
+      "requires": [],
+      "size": 78449,
+      "version": "0.2.7"
+    },
+    "pyzolib-0.2.9-py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "51dd87f759466e3e6853eaf7"
+      },
+      "build": "py33_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.3*"
+      ],
+      "home_page": "http://bitbucket.org/pyzo/pyzolib",
+      "license": "BSD",
+      "md5": "353c8899074e233bdf80756d5eb3c307",
+      "name": "pyzolib",
+      "platform": "osx",
+      "requires": [],
+      "size": 79285,
+      "version": "0.2.9"
+    },
+    "pyzolib-0.3.1-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "51dd87f759466e3e6853eaf7"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://bitbucket.org/pyzo/pyzolib",
+      "license": "BSD",
+      "md5": "f5059cd56eb82b157d5919015099c8bf",
+      "name": "pyzolib",
+      "platform": "osx",
+      "requires": [],
+      "size": 81778,
+      "version": "0.3.1"
+    },
+    "pyzolib-0.3.2-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "51dd87f759466e3e6853eaf7"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://bitbucket.org/pyzo/pyzolib",
+      "license": "BSD",
+      "md5": "69d89348d14ce42d6729ccdb815ed4b9",
+      "name": "pyzolib",
+      "platform": "osx",
+      "requires": [],
+      "size": 81772,
+      "version": "0.3.2"
+    },
+    "pyzolib-0.3.3-py34_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "51dd87f759466e3e6853eaf7"
+      },
+      "build": "py34_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.4*"
+      ],
+      "home_page": "http://bitbucket.org/pyzo/pyzolib",
+      "license": "BSD",
+      "md5": "84c2c98b1c54bd9804660a8a00710e6e",
+      "name": "pyzolib",
+      "platform": "osx",
+      "requires": [],
+      "size": 81871,
+      "version": "0.3.3"
+    },
+    "scikit-learn-0.14.1-np17py33_0.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "5273b80759466e0dcccd96ce"
+      },
+      "build": "np17py33_0",
+      "build_number": 0,
+      "depends": [
+        "numpy 1.7*",
+        "python 3.3*",
+        "scipy"
+      ],
+      "md5": "891ca183bac1ab6bce57781bf0525d41",
+      "name": "scikit-learn",
+      "platform": "osx",
+      "requires": [],
+      "size": 3086436,
+      "version": "0.14.1"
+    },
+    "visvis-1.9-py33_1.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e44e059466e6e55f6b332"
+      },
+      "build": "py33_1",
+      "build_number": 1,
+      "depends": [
+        "pyopengl",
+        "python 3.3*"
+      ],
+      "md5": "cd27b953c59760d880715203cebbc881",
+      "name": "visvis",
+      "platform": "osx",
+      "requires": [],
+      "size": 4906398,
+      "version": "1.9"
+    },
+    "visvis-1.9.1-py34_1.tar.bz2": {
+      "arch": "x86_64",
+      "binstar": {
+        "channel": "main",
+        "owner_id": "51dd87e059466e3e6357f477",
+        "package_id": "526e44e059466e6e55f6b332"
+      },
+      "build": "py34_1",
+      "build_number": 1,
+      "depends": [
+        "pyopengl",
+        "python 3.4*"
+      ],
+      "home_page": "http://code.google.com/p/visvis/",
+      "license": "BSD",
+      "md5": "3f2899eb1521ce939ffdff80de47288a",
+      "name": "visvis",
+      "platform": "osx",
+      "requires": [],
+      "size": 4867115,
+      "version": "1.9.1"
+    }
+  }
+}

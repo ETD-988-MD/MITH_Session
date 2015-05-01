@@ -1,0 +1,29 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "channel": "http://repo.continuum.io/pkgs/free/osx-64/",
+  "depends": [],
+  "files": [
+    "include/sqlite3.h",
+    "include/sqlite3ext.h",
+    "lib/libsqlite3.0.dylib",
+    "lib/libsqlite3.a",
+    "lib/libsqlite3.dylib",
+    "lib/libsqlite3.la",
+    "lib/pkgconfig/sqlite3.pc"
+  ],
+  "license": "Public Domain (http://www.sqlite.org/copyright.html)",
+  "link": {
+    "source": "/Users/almar/anaconda34/pkgs/sqlite-3.8.4.1-0",
+    "type": "hard-link"
+  },
+  "md5": "542d4426a28aa9f8646d9a393e59c011",
+  "name": "sqlite",
+  "org_name": "SQLite",
+  "platform": "osx",
+  "requires": [],
+  "size": 820080,
+  "url": "http://repo.continuum.io/pkgs/free/osx-64/sqlite-3.8.4.1-0.tar.bz2",
+  "version": "3.8.4.1"
+}

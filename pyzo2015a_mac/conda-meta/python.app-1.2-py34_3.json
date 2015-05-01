@@ -1,0 +1,34 @@
+{
+  "arch": "x86_64",
+  "build": "py34_3",
+  "build_number": 3,
+  "channel": "http://repo.continuum.io/pkgs/free/osx-64/",
+  "depends": [
+    "python 3.4*"
+  ],
+  "files": [
+    "bin/.python.app-post-link.sh",
+    "bin/.python.app-pre-unlink.sh",
+    "bin/python.app",
+    "bin/pythonw",
+    "pythonapp/Contents/Info.plist",
+    "pythonapp/Contents/MacOS/python",
+    "pythonapp/Contents/PkgInfo",
+    "pythonapp/Contents/Resources/empty.lproj",
+    "pythonapp/Contents/Resources/qt_menu.nib/classes.nib",
+    "pythonapp/Contents/Resources/qt_menu.nib/info.nib",
+    "pythonapp/Contents/Resources/qt_menu.nib/keyedobjects.nib"
+  ],
+  "license": null,
+  "link": {
+    "source": "/Users/almar/anaconda34/pkgs/python.app-1.2-py34_3",
+    "type": "hard-link"
+  },
+  "md5": "6b25f2f3e6bc9821e457e57928938062",
+  "name": "python.app",
+  "platform": "osx",
+  "requires": [],
+  "size": 7390,
+  "url": "http://repo.continuum.io/pkgs/free/osx-64/python.app-1.2-py34_3.tar.bz2",
+  "version": "1.2"
+}

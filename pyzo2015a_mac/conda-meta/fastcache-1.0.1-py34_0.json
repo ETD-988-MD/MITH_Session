@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64",
+  "build": "py34_0",
+  "build_number": 0,
+  "channel": "http://repo.continuum.io/pkgs/free/osx-64/",
+  "depends": [
+    "python 3.4*"
+  ],
+  "files": [
+    "lib/python3.4/site-packages/fastcache-1.0.1-py3.4.egg-info",
+    "lib/python3.4/site-packages/fastcache/__init__.py",
+    "lib/python3.4/site-packages/fastcache/__pycache__/__init__.cpython-34.pyc",
+    "lib/python3.4/site-packages/fastcache/__pycache__/benchmark.cpython-34.pyc",
+    "lib/python3.4/site-packages/fastcache/_lrucache.so",
+    "lib/python3.4/site-packages/fastcache/benchmark.py",
+    "lib/python3.4/site-packages/fastcache/tests/__init__.py",
+    "lib/python3.4/site-packages/fastcache/tests/__pycache__/__init__.cpython-34.pyc",
+    "lib/python3.4/site-packages/fastcache/tests/__pycache__/test_clrucache.cpython-34.pyc",
+    "lib/python3.4/site-packages/fastcache/tests/__pycache__/test_functools.cpython-34.pyc",
+    "lib/python3.4/site-packages/fastcache/tests/__pycache__/test_lrucache.cpython-34.pyc",
+    "lib/python3.4/site-packages/fastcache/tests/__pycache__/test_thread.cpython-34.pyc",
+    "lib/python3.4/site-packages/fastcache/tests/test_clrucache.py",
+    "lib/python3.4/site-packages/fastcache/tests/test_functools.py",
+    "lib/python3.4/site-packages/fastcache/tests/test_lrucache.py",
+    "lib/python3.4/site-packages/fastcache/tests/test_thread.py"
+  ],
+  "license": "MIT",
+  "link": {
+    "source": "/Users/almar/anaconda34/pkgs/fastcache-1.0.1-py34_0",
+    "type": "hard-link"
+  },
+  "md5": "29259e7700a6256833ac1dcc07b818c5",
+  "name": "fastcache",
+  "platform": "osx",
+  "requires": [],
+  "size": 24466,
+  "url": "http://repo.continuum.io/pkgs/free/osx-64/fastcache-1.0.1-py34_0.tar.bz2",
+  "version": "1.0.1"
+}

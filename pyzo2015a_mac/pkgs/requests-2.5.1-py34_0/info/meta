@@ -1,0 +1,11 @@
+pkg: requests-2.5.1
+dist: requests-2.5.1-py34_0
+home: http://docs.python-requests.org/en/latest/index.html
+license: ISC
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

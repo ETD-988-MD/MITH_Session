@@ -1,0 +1,2 @@
+gensim/models/doc2vec_inner.so
+gensim/models/word2vec_inner.so

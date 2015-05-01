@@ -1,0 +1,3 @@
+http://repo.continuum.io/pkgs/free/osx-64/conda-3.9.0-py34_0.tar.bz2
+http://repo.continuum.io/pkgs/free/osx-64/conda-env-2.1.3-py34_0.tar.bz2
+http://repo.continuum.io/pkgs/free/osx-64/requests-2.5.1-py34_0.tar.bz2

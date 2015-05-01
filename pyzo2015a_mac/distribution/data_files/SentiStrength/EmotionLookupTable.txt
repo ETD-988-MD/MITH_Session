@@ -1,0 +1,2546 @@
+abandon[a-z]*	-2	liwc uness specified otherwise
+abate	-2	General Inquirer Feb 2010
+abdicate[a-z]*	-2	General Inquirer Feb 2010
+abhor[a-z]*	-4	General Inquirer Feb 2010
+abject	-2	General Inquirer Feb 2010
+abnormal[a-z]*	-2	General Inquirer Feb 2010
+abolish[a-z]*	-2	General Inquirer Feb 2010
+abomina[a-z]*	-3	General Inquirer Feb 2010
+abrasive[a-z]*	-2	General Inquirer Feb 2010
+abrupt	-2	General Inquirer Feb 2010
+abscond[a-z]*	-2	General Inquirer Feb 2010
+absence	-2	General Inquirer Feb 2010
+absent[a-z]*	-2	General Inquirer Feb 2010
+absurd[a-z]*	-2	Feb-11
+abuse[a-z]*	-4	
+abusi[a-z]*	-4	removed accept	1	accepta[a-z]*	2	accepted	2	accepting	2	accepts	2	
+abyss	-2	General Inquirer Feb 2010
+accident[a-z]*	-2	General Inquirer Feb 2010
+accomplish[a-z]*	2	Hannes GI add
+accost[a-z]*	-2	General Inquirer Feb 2010
+accursed	-2	General Inquirer Feb 2010
+accus[a-z]*	-2	General Inquirer Feb 2010
+accusation[a-z]*	-2	General Inquirer Feb 2010
+ache[a-z]*	-2	
+achen[a-z]*	1	kev
+acher[a-z]*	1	kev
+acheson	1	kev
+acheta	1	kev
+aching	-2	removed active[a-z]*	2	
+acrimon[a-z]*	-2	General Inquirer Feb 2010
+addict[a-z]*	-2	General Inquirer Feb 2010
+admir[a-z]*	3	
+admiral[a-z]*	1	kev
+admoni[a-z]*	-2	General Inquirer Feb 2010
+ador[a-z]*	4	advantag[a-z]*	2	
+adorn[a-z]*	1	kev
+adroit	2	Hannes GI add
+adulterat[a-z]*	-2	General Inquirer Feb 2010
+adulteror	-3	kev add
+adultery	-3	General Inquirer Feb 2010
+adventur[a-z]*	1	
+advers[a-z]*	-2	
+affab[a-z]*	3	Hannes GI add
+affectation[a-z]*	-2	General Inquirer Feb 2010
+affection[a-z]*	3	
+afflict[a-z]*	-3	General Inquirer Feb 2010
+afraid	-4	
+against	-2	General Inquirer Feb 2010
+aggravat[a-z]*	-3	
+aggress[a-z]*	-3	
+aggrieve[a-z]*	-2	General Inquirer Feb 2010
+aghast	-2	General Inquirer Feb 2010
+agitat[a-z]*	-2	
+agonis[a-z]*	-4	kev
+agoniz[a-z]*	-4	
+agony	-4	removed agree	2	
+agreeab[a-z]*	1	removed agreed	2	agreeing	2	agreement[a-z]*	2	agrees	2	
+ail	-2	General Inquirer Feb 2010
+ailing	-3	kev add
+ailment[a-z]*	-2	General Inquirer Feb 2010
+ails	-2	General Inquirer Feb 2010
+aimless[a-z]*	-2	General Inquirer Feb 2010
+alarm[a-z]*	-3	
+alas	-2	General Inquirer Feb 2010
+alibi[a-z]*	-2	General Inquirer Feb 2010
+alien	-2	General Inquirer Feb 2010
+alienat[a-z]*	-2	General Inquirer Feb 2010
+allegation[a-z]*	-2	General Inquirer Feb 2010
+allege[a-z]*	-2	General Inquirer Feb 2010
+alol	2	actually laughing out loud
+alone	-1	removed alright[a-z]*	2	
+aloof	-2	General Inquirer Feb 2010
+altercation[a-z]*	-2	General Inquirer Feb 2010
+amaz[a-z]*	3	
+amazon[a-z]*	1	kev
+ambiguit[a-z]*	-2	General Inquirer Feb 2010
+ambiguous[a-z]*	-2	General Inquirer Feb 2010
+ambivalent	-2	General Inquirer Feb 2010
+ambush[a-z]*	-2	General Inquirer Feb 2010
+amiab[a-z]*	3	Hannes GI add
+amiss	-2	General Inquirer Feb 2010
+amor[a-z]*	2	
+amoral[a-z]*	-3	kev
+amort[a-z]*	1	kev
+amour	2	Hannes GI add
+amputate[a-z]*	-2	General Inquirer Feb 2010
+amus[a-z]*	2	
+anarchist[a-z]*	-2	General Inquirer Feb 2010
+anarchy	-2	General Inquirer Feb 2010
+angelic	2	Hannes GI add
+anger[a-z]*	-4	
+angr[a-z]*	-4	
+angraecum	1	kev
+angrecum	1	kev
+anguish[a-z]*	-4	
+animosity	-2	General Inquirer Feb 2010
+annihilate[a-z]*	-3	General Inquirer Feb 2010
+annihilation	-4	General Inquirer Feb 2010
+annoy[a-z]*	-3	
+anomalous	-2	General Inquirer Feb 2010
+anomaly	-2	General Inquirer Feb 2010
+antagoni[a-z]*	-2	
+anti-social	-2	General Inquirer Feb 2010
+antipathy	-2	General Inquirer Feb 2010
+antiquated[a-z]*	-2	General Inquirer Feb 2010
+antitrust	-2	General Inquirer Feb 2010
+anxi[a-z]*	-3	
+aok	2	
+apath[a-z]*	-2	
+appall[a-z]*	-4	
+applaud[a-z]*	2	Hannes GI add
+applause	2	Hannes GI add
+appreciat[a-z]*	2	
+apprehens[a-z]*	-3	
+apprehens[a-z]*	-3	General Inquirer Feb 2010
+arbitrary	-2	General Inquirer Feb 2010
+ardent	3	Hannes GI add
+arduous[a-z]*	-2	General Inquirer Feb 2010
+argh[a-z]*	-2	
+argu[a-z]*	-2	
+arrogan[a-z]*	-3	
+arsehole[a-z]*	-3	
+artificial	-1	General Inquirer Feb 2010
+asham[a-z]*	-4	
+ashamed	-2	General Inquirer Feb 2010
+asinine	-2	Feb-11
+assail[a-z]*	-3	General Inquirer Feb 2010
+assassin[a-z]*	-3	General Inquirer Feb 2010
+assault[a-z]*	-3	
+asshole[a-z]*	-3	remvoed assur[a-z]*	2	
+asswipe	-3	Feb-11
+astray	-2	General Inquirer Feb 2010
+asunder	-2	General Inquirer Feb 2010
+atrocious[a-z]*	-4	General Inquirer Feb 2010
+atrophy	-2	General Inquirer Feb 2010
+attachment[a-z]*	1	
+attack[a-z]*	-3	
+attract[a-z]*	2	
+auster[a-z]*	-2	General Inquirer Feb 2010 kev mod
+autocrat[a-z]*	-2	General Inquirer Feb 2010
+autocratic	-3	General Inquirer Feb 2010
+avaric[a-z]*	-3	General Inquirer Feb 2010
+avenge[a-z]*	-2	General Inquirer Feb 2010
+aversi[a-z]*	-3	remvoed avoid[a-z]*	-1	
+avert[a-z]*	-2	General Inquirer Feb 2010
+avoid[a-z]*	-2	General Inquirer Feb 2010
+award[a-z]*	1	
+awesome[a-z]*	3	kev add star
+awful[a-z]*	-4	
+awkward[a-z]*	-2	
+babble[a-z]*	-2	General Inquirer Feb 2010
+babies	2	27 July 2009 (assumes positive context -e.g. hey baby)
+baby	2	27 July 2009 (assumes positive context -e.g. hey baby)
+backwardness	-2	General Inquirer Feb 2010
+bad	-2	
+badly	-2	General Inquirer Feb 2010
+badmouth[a-z]*	-3	kev
+badness	-3	kev
+baffle[a-z]*	-2	General Inquirer Feb 2010
+bail[a-z]*	-2	General Inquirer Feb 2010
+bait[a-z]*	-2	General Inquirer Feb 2010
+balderdash	-2	Feb-11
+balk[a-z]*	-2	General Inquirer Feb 2010
+baloney	-2	Feb-11
+banal[a-z]*	-2	General Inquirer Feb 2010
+bandit[a-z]*	-2	General Inquirer Feb 2010
+bane	-2	General Inquirer Feb 2010
+banish[a-z]*	-2	General Inquirer Feb 2010
+bankrupt[a-z]*	-3	General Inquirer Feb 2010
+barbari[a-z]*	-3	General Inquirer Feb 2010
+barf[a-z]*	-2	Feb-11
+barren	-2	General Inquirer Feb 2010
+barrier[a-z]*	-2	General Inquirer Feb 2010
+bashful[a-z]*	-3	
+bastard[a-z]*	-3	removed battl[a-z]*	-2	
+battle[a-z]*	-2	General Inquirer Feb 2010
+beastly	-2	General Inquirer Feb 2010
+beaten	-1	
+beatings	-3	kev
+beaut[a-z]*	3	
+beg	-2	General Inquirer Feb 2010
+beggar[a-z]*	-2	General Inquirer Feb 2010
+behead[a-z]*	-5	General Inquirer Feb 2010
+belated	-2	General Inquirer Feb 2010
+belie	-2	General Inquirer Feb 2010
+belittl[a-z]*	-3	General Inquirer Feb 2010 kev mod
+belligerent[a-z]*	-3	General Inquirer Feb 2010
+beloved[a-z]*	3	kev add star removed benefic[a-z]*	2	benefit	2	benefits	2	
+benefitt[a-z]*	2	
+benevolen[a-z]*	2	
+benign[a-z]*	2	
+bereave[a-z]*	-4	General Inquirer Feb 2010
+bereft	-2	General Inquirer Feb 2010
+berk	-2	Feb-11
+berserk	-2	General Inquirer Feb 2010
+beseech	-2	General Inquirer Feb 2010
+beset	-2	General Inquirer Feb 2010
+besiege[a-z]*	-2	General Inquirer Feb 2010
+best	2	removed	better	2
+betray[a-z]*	-3	General Inquirer Feb 2010
+betroth	3	Hannes GI add
+betrothal	3	Hannes GI add
+beware	-2	General Inquirer Feb 2010
+bewilder[a-z]*	-3	General Inquirer Feb 2010
+bff	4	best friends forever
+bg	2	big grin
+bigot[a-z]*	-2	Feb-11
+bilge	-2	Feb-11
+birdbrain[a-z]*	-2	Feb-11
+bitch[a-z]*	-2	auto check 4 aug 2009
+bitter[a-z]*	-2	
+bittern	1	kev
+bitterns	1	kev
+bittersweet[a-z]*	1	kev
+bizarre	-2	General Inquirer Feb 2010
+blackmail[a-z]*	-3	General Inquirer Feb 2010
+blah	-2	General Inquirer Feb 2010
+blam[a-z]*	-2	
+blameless[a-z]*	2	kev
+bland	-2	General Inquirer Feb 2010
+blatant[a-z]*	-2	General Inquirer Feb 2010
+blather[a-z]*	-2	Feb-11
+bleak	-2	General Inquirer Feb 2010
+blemish[a-z]*	-2	General Inquirer Feb 2010
+bless[a-z]*	2	removed bold[a-z]*	2	
+blind[a-z]*	-2	General Inquirer Feb 2010
+bliss	5	Hannes GI add
+blissful	5	Hannes GI add
+block[a-z]*	-2	General Inquirer Feb 2010
+blockhead[a-z]*	-2	Feb-11
+bloodshed	-2	General Inquirer Feb 2010
+bloodthirsty	-2	General Inquirer Feb 2010
+bloody	-2	General Inquirer Feb 2010
+blunder	-2	General Inquirer Feb 2010
+blunt[a-z]*	-2	General Inquirer Feb 2010
+blur[a-z]*	-2	General Inquirer Feb 2010
+blurt[a-z]*	-2	General Inquirer Feb 2010
+boast[a-z]*	-2	General Inquirer Feb 2010
+bogus[a-z]*	-2	General Inquirer Feb 2010
+boisterous[a-z]*	-2	General Inquirer Feb 2010
+bolt[a-z]*	-2	General Inquirer Feb 2010
+bomb[a-z]*	-2	General Inquirer Feb 2010
+bondage	-2	General Inquirer Feb 2010
+bonehead[a-z]*	-2	Feb-11
+bonny	2	Hannes GI add
+bonus[a-z]*	1	
+bore[a-z]*	-2	29 July 2009 - changed from -3
+boring[a-z]*	-2	
+bother[a-z]*	-2	
+bountiful	2	Hannes GI add
+brag[a-z]*	-2	General Inquirer Feb 2010
+brandish[a-z]*	-2	General Inquirer Feb 2010
+brat	-2	General Inquirer Feb 2010
+bravado	-2	General Inquirer Feb 2010
+brave[a-z]*	3	removed bright[a-z]*	2	
+brawl[a-z]*	-2	General Inquirer Feb 2010
+brazen	-2	General Inquirer Feb 2010
+breach[a-z]*	-2	General Inquirer Feb 2010
+breakdown[a-z]*	-2	General Inquirer Feb 2010
+bribe[a-z]*	-2	General Inquirer Feb 2010
+brillian[a-z]*	2	
+bristle[a-z]*	-2	General Inquirer Feb 2010
+broke[a-z]*	-2	
+broken-hearted[a-z]*	-5	General Inquirer Feb 2010 kev mod
+brokenhearted[a-z]*	-5	kev
+brood[a-z]*	-2	General Inquirer Feb 2010
+bruise[a-z]*	-2	General Inquirer Feb 2010
+brusque	-2	General Inquirer Feb 2010
+brutal[a-z]*	-3	
+brute	-2	General Inquirer Feb 2010
+brutish	-2	General Inquirer Feb 2010
+buckled	-2	General Inquirer Feb 2010
+buffoon[a-z]*	-2	Feb-11
+bug	-2	General Inquirer Feb 2010
+bullet[a-z]*	-2	General Inquirer Feb 2010
+bullshit[a-z]*	-3	Feb-11
+bum	-2	
+bumhole[a-z]*	-2	
+bungle[a-z]*	-2	General Inquirer Feb 2010
+bunkum	-2	Feb-11
+burden[a-z]*	-2	
+burgl[a-z]*	-2	General Inquirer Feb 2010
+buried	-3	General Inquirer Feb 2010
+burn[a-z]*	-2	General Inquirer Feb 2010
+bury	-3	General Inquirer Feb 2010
+busybody	-2	General Inquirer Feb 2010
+butchery	-2	General Inquirer Feb 2010
+calamit[a-z]*	-4	General Inquirer Feb 2010
+callous[a-z]*	-4	General Inquirer Feb 2010
+calm[a-z]*	2	
+cancel[a-z]*	-2	Feb-11
+cancer[a-z]*	-4	General Inquirer Feb 2010
+cannibal[a-z]*	-2	General Inquirer Feb 2010
+cannon	-2	General Inquirer Feb 2010
+capitulate[a-z]*	-2	General Inquirer Feb 2010
+capricious[a-z]*	-2	General Inquirer Feb 2010
+capsize[a-z]*	-2	General Inquirer Feb 2010
+captive[a-z]*	-2	General Inquirer Feb 2010
+capture[a-z]*	-2	General Inquirer Feb 2010
+care	2	
+cared	2	
+careen	-2	General Inquirer Feb 2010
+carefree	2	removed careful[a-z]*	3	
+careless[a-z]*	-2	
+cares	2	
+caring	3	removed casual	2	casually	2	certain[a-z]*	2	challeng[a-z]*	2	champ[a-z]*	2	charit[a-z]*	2	
+casualty	-3	General Inquirer Feb 2010
+cataclysm	-4	General Inquirer Feb 2010
+catastrophe	-4	General Inquirer Feb 2010
+cave	1	General Inquirer Feb 2010
+celebrat[a-z]*	2	Hannes GI add
+censor[a-z]*	-2	General Inquirer Feb 2010
+censure[a-z]*	-2	General Inquirer Feb 2010
+chafe	-2	General Inquirer Feb 2010
+challenge[a-z]*	-2	General Inquirer Feb 2010
+chaos	-2	General Inquirer Feb 2010
+chaotic[a-z]*	-2	General Inquirer Feb 2010
+charge[a-z]*	-2	General Inquirer Feb 2010
+charm[a-z]*	2	
+chase[a-z]*	-2	General Inquirer Feb 2010
+chastise[a-z]*	-3	General Inquirer Feb 2010
+cheap[a-z]*	-2	General Inquirer Feb 2010
+cheat[a-z]*	-3	
+cheer[a-z]*	2	
+cheerful[a-z]*	3	kev
+cheeri[a-z]*	3	kev cheeriness
+cheerio	1	kev
+cheerlead[a-z]*	1	kev
+cheerless[a-z]*	-3	kev
+cherish[a-z]*	3	
+chide[a-z]*	-2	General Inquirer Feb 2010
+childish	-2	General Inquirer Feb 2010
+choke[a-z]*	-4	General Inquirer Feb 2010
+chore[a-z]*	-3	General Inquirer Feb 2010
+chronic	-3	General Inquirer Feb 2010
+chuckl[a-z]*	3	
+clamor[a-z]*	-1	General Inquirer Feb 2010
+claptrap	-2	Feb-11
+clash	-2	General Inquirer Feb 2010
+clatter	-2	General Inquirer Feb 2010
+clever[a-z]*	1	
+clique	-2	General Inquirer Feb 2010
+clog	-2	General Inquirer Feb 2010
+clumsy	-2	General Inquirer Feb 2010
+clutter[a-z]*	-2	General Inquirer Feb 2010
+coarse[a-z]*	-2	General Inquirer Feb 2010
+cock	-2	Feb-11
+cockiness	-2	General Inquirer Feb 2010
+cocksucker[a-z]*	-4	Feb-11
+cocky	-2	General Inquirer Feb 2010
+coerc[a-z]*	-3	General Inquirer Feb 2010
+cold[a-z]*	-2	General Inquirer Feb 2010
+collapse[a-z]*	-2	General Inquirer Feb 2010
+collide[a-z]*	-2	General Inquirer Feb 2010
+collision	-2	General Inquirer Feb 2010
+collusion	-2	General Inquirer Feb 2010
+combat	-2	General Inquirer Feb 2010
+combatant[a-z]*	-2	General Inquirer Feb 2010
+comed[a-z]*	1	
+comedown[a-z]*	-2	kev
+comfort[a-z]*	2	kev change removed	commitment[a-z]*	2
+comfortless[a-z]*	-3	kev
+commemorate[a-z]*	-2	Feb-11
+commiseration	-2	General Inquirer Feb 2010
+commit	1	kev mod
+commoner	-2	General Inquirer Feb 2010
+commonplace	1	kev mod
+commotion	-2	General Inquirer Feb 2010
+compassion[a-z]*	2	
+compel	-2	General Inquirer Feb 2010
+complain[a-z]*	-2	
+complicate[a-z]*	-2	General Inquirer Feb 2010
+complication[a-z]*	-2	General Inquirer Feb 2010
+complicity	-2	General Inquirer Feb 2010
+compliment[a-z]*	2	
+compulsion	-2	General Inquirer Feb 2010
+conceal[a-z]*	-2	General Inquirer Feb 2010
+conceit[a-z]*	-2	General Inquirer Feb 2010
+concern[a-z]*	-2	General Inquirer Feb 2010
+condemn[a-z]*	-2	General Inquirer Feb 2010
+condemnation	-2	General Inquirer Feb 2010
+condescen[a-z]*	-3	General Inquirer Feb 2010
+condol[a-z]*	-3	Arvid spotted May 2011
+confes[a-z]*	-2	Feb-11
+confidence	2	
+confidences	1	kev
+confident	2	
+confidently	2	
+confine	-2	General Inquirer Feb 2010
+confinement	-2	General Inquirer Feb 2010
+confiscate[a-z]*	-2	General Inquirer Feb 2010
+confiscation	-2	General Inquirer Feb 2010
+conflict[a-z]*	-2	General Inquirer Feb 2010
+confound[a-z]*	-2	General Inquirer Feb 2010
+confront[a-z]*	-3	
+confus[a-z]*	-2	
+congested[a-z]*	-2	General Inquirer Feb 2010
+congestion	-2	General Inquirer Feb 2010
+congratulate[a-z]*	2	Hannes GI add
+congratulation[a-z]*	3	Hannes GI add
+congratulatory	2	Hannes GI add
+considerate	2	
+conspiracy	-2	General Inquirer Feb 2010
+conspirator[a-z]*	-2	General Inquirer Feb 2010
+conspire[a-z]*	-2	General Inquirer Feb 2010
+consternation	-2	General Inquirer Feb 2010
+constrain[a-z]*	-2	General Inquirer Feb 2010
+consumptive	-2	General Inquirer Feb 2010
+contagio[a-z]*	-2	General Inquirer Feb 2010
+contaminat[a-z]*	-2	General Inquirer Feb 2010
+contempt[a-z]*	-4	
+contend	-2	General Inquirer Feb 2010
+contented[a-z]*	2	
+contentment	2	
+contradic[a-z]*	-2	removed	convinc[a-z]*	2
+contrary[a-z]*	-2	General Inquirer Feb 2010
+controvers[a-z]*	-2	General Inquirer Feb 2010
+convict[a-z]*	-2	General Inquirer Feb 2010
+cool	2	
+coolest	3	ur da coolest mom ever!!
+coolly	-2	kev
+coolness	-2	kev
+corrode	-2	General Inquirer Feb 2010
+corrosion	-2	General Inquirer Feb 2010
+corrosive[a-z]*	-2	General Inquirer Feb 2010
+corrupt[a-z]*	-3	General Inquirer Feb 2010
+corruption	-3	General Inquirer Feb 2010
+cosi[a-z]*	2	kev
+costliness	-2	General Inquirer Feb 2010
+costly	-2	General Inquirer Feb 2010
+cosy	3	kev
+counteract[a-z]*	-2	General Inquirer Feb 2010
+counteraction	-2	General Inquirer Feb 2010
+counterfeit[a-z]*	-2	General Inquirer Feb 2010
+courag[a-z]*	2	
+courteous	3	Hannes GI add
+covert[a-z]*	-2	General Inquirer Feb 2010
+covet[a-z]*	-2	General Inquirer Feb 2010
+coward[a-z]*	-2	General Inquirer Feb 2010
+cozi[a-z]*	2	kev
+cozy[a-z]*	2	kev
+crafty	-2	General Inquirer Feb 2010
+cram	-2	General Inquirer Feb 2010
+cramp[a-z]*	-2	General Inquirer Feb 2010
+cranky	-2	General Inquirer Feb 2010
+crap	-3	
+crappy	-3	
+crass	-2	General Inquirer Feb 2010
+crave[a-z]*	-2	General Inquirer Feb 2010
+crawl[a-z]*	-1	General Inquirer Feb 2010
+craz[a-z]*	-1	removed create[a-z]*	2	creati[a-z]*	2	credit[a-z]*	2	
+craze	-2	General Inquirer Feb 2010
+craziness	-2	General Inquirer Feb 2010
+crazy	-2	General Inquirer Feb 2010
+credulous	-2	General Inquirer Feb 2010
+cried	-4	
+cries	-3	
+crime[a-z]*	-2	Feb-11
+criminal[a-z]*	-2	Feb-11
+cringe	-2	General Inquirer Feb 2010
+cripple[a-z]*	-2	General Inquirer Feb 2010 kev mod
+crisis	-3	Feb-11
+critic	-2	General Inquirer Feb 2010
+critical[a-z]*	-2	
+critici[a-z]*	-2	
+croak	-2	General Inquirer Feb 2010
+crook	-2	General Inquirer Feb 2010
+crooked	-2	General Inquirer Feb 2010
+cross	-2	General Inquirer Feb 2010
+crude[a-z]*	-2	
+cruel[a-z]*	-4	
+crumble	-2	General Inquirer Feb 2010
+crumple	-2	General Inquirer Feb 2010
+crush	-2	General Inquirer Feb 2010
+crushed	-1	
+crushing	-2	General Inquirer Feb 2010
+cry	-4	
+crye[a-z]*	-4	misspelling
+crying	-4	
+cuddl[a-z]*	3	kev
+culpable	-2	General Inquirer Feb 2010
+culprit	-2	General Inquirer Feb 2010
+cumbersome	-2	General Inquirer Feb 2010
+cunt[a-z]*	-4	removed	cut	-2
+curse[a-z]*	-2	General Inquirer Feb 2010
+cursory	-2	General Inquirer Feb 2010
+curt	-2	General Inquirer Feb 2010
+curtail[a-z]*	-2	General Inquirer Feb 2010
+cute[a-z]*	2	
+cutie[a-z]*	2	
+cynic[a-z]*	-2	
+damag[a-z]*	-1	
+damn[a-z]*	-2	auto check 4 aug 2009
+danger[a-z]*	-2	
+daring	1	
+dark	-1	General Inquirer Feb 2010
+darken	-1	General Inquirer Feb 2010
+darkness	-1	General Inquirer Feb 2010
+darlin[a-z]*	3	
+darn	-2	General Inquirer Feb 2010
+daunting	-2	General Inquirer Feb 2010
+dawdle	-2	General Inquirer Feb 2010
+daze[a-z]*	-2	
+dead	-3	Feb-11
+deadliness	-2	kev mod June 2011
+deadlock	-2	General Inquirer Feb 2010
+deadly	-2	General Inquirer Feb 2010
+deadweight	-2	General Inquirer Feb 2010
+deaf[a-z]*	-2	General Inquirer Feb 2010
+dear	2	
+dearth	-2	General Inquirer Feb 2010
+death[a-z]*	-3	Feb-11
+debatable	-2	General Inquirer Feb 2010
+debtor[a-z]*	-2	General Inquirer Feb 2010
+decadence	-2	General Inquirer Feb 2010
+decadent[a-z]*	-2	General Inquirer Feb 2010
+decay[a-z]*	-2	Feb-11
+decease	-2	General Inquirer Feb 2010
+deceit	-2	General Inquirer Feb 2010
+deceitful[a-z]*	-3	General Inquirer Feb 2010
+deceive	-2	General Inquirer Feb 2010
+deception[a-z]*	-2	General Inquirer Feb 2010
+deceptive[a-z]*	-2	General Inquirer Feb 2010
+decline[a-z]*	-2	General Inquirer Feb 2010
+decompos[a-z]*	-2	General Inquirer Feb 2010
+decrease	-2	General Inquirer Feb 2010
+defam[a-z]*	-2	General Inquirer Feb 2010
+default	-2	General Inquirer Feb 2010
+defeat[a-z]*	-1	
+defeatis[a-z]*	-2	kev
+defect[a-z]*	-2	
+defective[a-z]*	-3	kev
+defenc[a-z]*	-1	removed	defens[a-z]*	-1	definite	2	definitely	2
+defendant[a-z]*	-2	General Inquirer Feb 2010
+defensive[a-z]*	-2	General Inquirer Feb 2010
+defiance	-2	General Inquirer Feb 2010
+defiant[a-z]*	-2	General Inquirer Feb 2010
+deficiency	-2	General Inquirer Feb 2010
+deficient[a-z]*	-2	General Inquirer Feb 2010
+deficit	-2	General Inquirer Feb 2010
+defile	-2	General Inquirer Feb 2010
+defy	-2	General Inquirer Feb 2010
+degenerate[a-z]*	-2	General Inquirer Feb 2010
+degrad[a-z]*	-3	kev mod
+dejected[a-z]*	-2	General Inquirer Feb 2010
+delay	-2	General Inquirer Feb 2010
+delectabl[a-z]*	3	removed	delicate[a-z]*	2
+delicious[a-z]*	3	
+deligh[a-z]*	3	
+delinquency	-2	General Inquirer Feb 2010
+delinquent[a-z]*	-2	General Inquirer Feb 2010
+delirium	-2	General Inquirer Feb 2010
+deluge	-2	General Inquirer Feb 2010
+delusion[a-z]*	-2	General Inquirer Feb 2010
+demean[a-z]*	-2	General Inquirer Feb 2010
+demeano[a-z]*	1	kev mod
+demise	-2	General Inquirer Feb 2010
+demolish[a-z]*	-2	General Inquirer Feb 2010
+demon	-2	General Inquirer Feb 2010
+demoralize	-2	General Inquirer Feb 2010
+denial	-2	General Inquirer Feb 2010
+denied	-2	Feb-11
+denounce	-2	General Inquirer Feb 2010
+dent[a-z]*	-2	General Inquirer Feb 2010
+deny	-2	Feb-11
+dependent	-2	General Inquirer Feb 2010
+deplete[a-z]*	-2	General Inquirer Feb 2010
+deplorable	-2	General Inquirer Feb 2010
+deplore[a-z]*	-2	General Inquirer Feb 2010
+depose[a-z]*	-2	General Inquirer Feb 2010
+deprav[a-z]*	-4	General Inquirer Feb 2010
+depreciate[a-z]*	-2	General Inquirer Feb 2010
+depreciation	-2	General Inquirer Feb 2010
+depress[a-z]*	-4	
+depriv[a-z]*	-2	
+deride	-2	General Inquirer Feb 2010
+derision	-2	General Inquirer Feb 2010
+derisive[a-z]*	-2	General Inquirer Feb 2010
+derogatory	-2	General Inquirer Feb 2010
+desert	-1	General Inquirer Feb 2010
+deserting	-2	General Inquirer Feb 2010
+desertion[a-z]*	-2	General Inquirer Feb 2010
+desirable	4	Hannes GI add
+desolate	-2	General Inquirer Feb 2010
+desolation	-2	General Inquirer Feb 2010
+despair[a-z]*	-4	
+desperat[a-z]*	-3	
+despicable[a-z]*	-4	General Inquirer Feb 2010
+despis[a-z]*	-4	
+destitut[a-z]*	-3	General Inquirer Feb 2010
+destroy[a-z]*	-3	
+destroyer	1	kev mod
+destruct[a-z]*	-1	
+destruction	-2	kev mod
+detachment	-2	General Inquirer Feb 2010
+detain	-2	General Inquirer Feb 2010
+deter	-2	General Inquirer Feb 2010
+determina[a-z]*	1	
+determined	1	
+deterrent[a-z]*	-2	General Inquirer Feb 2010
+detest[a-z]*	-4	General Inquirer Feb 2010
+detract[a-z]*	-2	General Inquirer Feb 2010
+detrimental	-2	General Inquirer Feb 2010
+devastat[a-z]*	-5	kev mod
+devastate	-3	kev mod
+deviate	-2	General Inquirer Feb 2010
+deviation	-2	General Inquirer Feb 2010
+devil[a-z]*	-2	
+devious[a-z]*	-2	General Inquirer Feb 2010 kev mod
+devoid	-2	General Inquirer Feb 2010
+devot[a-z]*	3	
+diabolic[a-z]*	-2	General Inquirer Feb 2010
+dickhead[a-z]*	-2	Feb-11
+dictate	-2	General Inquirer Feb 2010
+dictatorial	-2	General Inquirer Feb 2010
+differ	-2	General Inquirer Feb 2010
+difficult[a-z]*	-2	
+digni[a-z]*	2	removed	disadvantage[a-z]*	-2
+dignitar[a-z]*	1	kev mod
+dilemma	-2	General Inquirer Feb 2010
+dim	-2	General Inquirer Feb 2010
+dimwit[a-z]*	-2	Feb-11
+din	-2	General Inquirer Feb 2010
+dipshit[a-z]*	-2	Feb-11
+dire	-2	General Inquirer Feb 2010
+dirt	-2	General Inquirer Feb 2010
+dirty	-2	Feb-11
+disable[a-z]*	-2	General Inquirer Feb 2010
+disadvantage[a-z]*	-2	General Inquirer Feb 2010
+disagre[a-z]*	-2	Feb-11
+disagree[a-z]*	-2	
+disappoint[a-z]*	-2	
+disapprov[a-z]*	-2	Feb-11
+disarm	-2	General Inquirer Feb 2010
+disaster[a-z]*	-2	
+disastrous[a-z]*	-4	General Inquirer Feb 2010
+disavow[a-z]*	-2	General Inquirer Feb 2010
+disbelief	-2	General Inquirer Feb 2010
+discharge[a-z]*	-2	General Inquirer Feb 2010
+disclaim[a-z]*	-2	General Inquirer Feb 2010
+discomfort[a-z]*	-2	
+disconcerted	-2	General Inquirer Feb 2010
+discontent[a-z]*	-2	General Inquirer Feb 2010
+discord	-2	General Inquirer Feb 2010
+discordant	-2	General Inquirer Feb 2010
+discourag[a-z]*	-2	
+discredit[a-z]*	-2	General Inquirer Feb 2010
+discrepant	-2	General Inquirer Feb 2010
+discriminate[a-z]*	-2	General Inquirer Feb 2010
+discrimination	-3	Feb-11
+disdain	-2	General Inquirer Feb 2010
+disease[a-z]*	-3	General Inquirer Feb 2010
+disgrace[a-z]*	-4	General Inquirer Feb 2010
+disguise	-2	General Inquirer Feb 2010
+disgust[a-z]*	-4	
+dishearten[a-z]*	-2	
+dishonest[a-z]*	-2	General Inquirer Feb 2010
+dishonor[a-z]*	-2	General Inquirer Feb 2010
+disillusion[a-z]*	-2	
+disingenuous[a-z]*	-2	General Inquirer Feb 2010
+disinterest[a-z]*	-2	General Inquirer Feb 2010
+dislike[a-z]*	-3	
+disliking	-3	
+dismal	-2	General Inquirer Feb 2010
+dismay[a-z]*	-3	
+dismiss[a-z]*	-2	General Inquirer Feb 2010
+disobedience	-2	General Inquirer Feb 2010
+disobedient[a-z]*	-2	General Inquirer Feb 2010
+disorder[a-z]*	-2	General Inquirer Feb 2010
+disorganized	-2	General Inquirer Feb 2010
+disparage[a-z]*	-2	Feb-11
+dispel[a-z]*	-2	General Inquirer Feb 2010
+dispensability	-2	General Inquirer Feb 2010
+dispense[a-z]*	-2	General Inquirer Feb 2010
+displace[a-z]*	-2	General Inquirer Feb 2010
+displease[a-z]*	-3	General Inquirer Feb 2010
+displeasure	-3	General Inquirer Feb 2010
+disposal	-2	General Inquirer Feb 2010
+dispose[a-z]*	-2	General Inquirer Feb 2010
+disproportionate	-2	General Inquirer Feb 2010
+disprove	-2	General Inquirer Feb 2010
+disputable	-2	General Inquirer Feb 2010
+dispute	-2	General Inquirer Feb 2010
+disregard[a-z]*	-2	General Inquirer Feb 2010
+disrupt[a-z]*	-2	General Inquirer Feb 2010
+dissatisf[a-z]*	-2	
+dissent[a-z]*	-2	General Inquirer Feb 2010
+dissolution	-2	General Inquirer Feb 2010
+distort[a-z]*	-2	General Inquirer Feb 2010
+distract[a-z]*	-2	
+distraught	-4	
+distress[a-z]*	-3	
+distrust[a-z]*	-2	
+disturb[a-z]*	-2	
+divert	-1	General Inquirer Feb 2010
+divin[a-z]*	2	removed	domina[a-z]*	-2
+division	-2	General Inquirer Feb 2010
+divorce[a-z]*	-2	General Inquirer Feb 2010
+dizziness	-2	General Inquirer Feb 2010
+dizzy	-2	General Inquirer Feb 2010
+doldrums	-2	General Inquirer Feb 2010
+dolt	-2	Feb-11
+dominate[a-z]*	-2	General Inquirer Feb 2010
+domination	-2	General Inquirer Feb 2010
+doom[a-z]*	-2	
+dope	-2	General Inquirer Feb 2010
+dork[a-z]*	-3	
+doubt[a-z]*	-2	
+douchebag[a-z]*	-2	Feb-11
+downcast	-3	General Inquirer Feb 2010 kev mod
+downfall	-2	General Inquirer Feb 2010
+downhearted[a-z]*	-3	General Inquirer Feb 2010 kev mod
+drab	-2	General Inquirer Feb 2010
+drag	-2	General Inquirer Feb 2010
+dread[a-z]*	-4	
+dreary[a-z]*	-2	General Inquirer Feb 2010 kev mod
+drivel	-2	Feb-11
+droop[a-z]*	-2	General Inquirer Feb 2010
+drop	-2	General Inquirer Feb 2010
+drought[a-z]*	-2	General Inquirer Feb 2010
+drown[a-z]*	-2	General Inquirer Feb 2010
+drowsiness	-2	General Inquirer Feb 2010
+drowsy	-2	General Inquirer Feb 2010
+drunk[a-z]*	-2	General Inquirer Feb 2010
+dubious[a-z]*	-2	General Inquirer Feb 2010
+dull[a-z]*	-2	
+dumb[a-z]*	-2	Feb-11
+dump[a-z]*	-2	
+dumpcart[a-z]*	1	kev mod
+dumper[a-z]*	1	kev mod
+dumpling[a-z]*	1	kev mod
+dunce	-2	Feb-11
+dunderhead[a-z]*	-2	Feb-11
+dungeon	-2	General Inquirer Feb 2010
+duty	-2	General Inquirer Feb 2010
+dwell[a-z]*	-1	
+dwindle[a-z]*	-2	General Inquirer Feb 2010
+dying	-2	General Inquirer Feb 2010
+dynamic[a-z]*	2	kev mod
+dynamism	2	kev mod
+eager[a-z]*	1	
+ease[a-z]*	1	
+easie[a-z]*	1	
+easily	1	
+easiness	1	
+easing	1	
+easy[a-z]*	1	
+easygoing[a-z]*	2	kev mod
+eccentric	-2	General Inquirer Feb 2010
+eccentricity	-2	General Inquirer Feb 2010
+ecsta[a-z]*	4	removed	efficien[a-z]*	2
+eejit	-3	Feb-11
+egotis[a-z]*	-3	
+elegan[a-z]*	2	
+eliminate	-2	General Inquirer Feb 2010
+elimination	-2	General Inquirer Feb 2010
+embarrass[a-z]*	-3	
+emergencies	-2	General Inquirer Feb 2010
+emergency	-2	General Inquirer Feb 2010
+emotional	-2	
+empt[a-z]*	-1	
+emptiness	-3	kev mod
+encourag[a-z]*	2	
+encroach[a-z]*	-2	General Inquirer Feb 2010
+endanger[a-z]*	-2	General Inquirer Feb 2010
+enemie[a-z]*	-2	
+enemy[a-z]*	-2	
+energ[a-z]*	1	
+enforce[a-z]*	-2	General Inquirer Feb 2010
+engag[a-z]*	1	
+engagingly	2	kev mod
+engulf[a-z]*	-2	General Inquirer Feb 2010
+enjoy[a-z]*	3	
+enrag[a-z]*	-4	removed	entertain[a-z]*	2
+enslave[a-z]*	-3	General Inquirer Feb 2010
+entangle[a-z]*	-2	General Inquirer Feb 2010
+enthus[a-z]*	3	
+entreat[a-z]*	-2	General Inquirer Feb 2010
+envie[a-z]*	-3	
+envious[a-z]*	-3	
+envy[a-z]*	-3	
+epidemic[a-z]*	-2	General Inquirer Feb 2010
+epithet	-2	General Inquirer Feb 2010
+equivocal	-2	General Inquirer Feb 2010
+eradicate	-2	General Inquirer Feb 2010
+erase[a-z]*	-2	General Inquirer Feb 2010
+erode[a-z]*	-2	General Inquirer Feb 2010
+erosion	-2	General Inquirer Feb 2010
+err	-2	General Inquirer Feb 2010
+erroneous[a-z]*	-2	General Inquirer Feb 2010
+error[a-z]*	-2	General Inquirer Feb 2010
+esoteric	-2	General Inquirer Feb 2010
+estranged	-2	General Inquirer Feb 2010
+evade[a-z]*	-2	General Inquirer Feb 2010
+evasion[a-z]*	-2	General Inquirer Feb 2010
+evict[a-z]*	-3	General Inquirer Feb 2010
+evil[a-z]*	-3	
+exaggerat[a-z]*	-2	General Inquirer Feb 2010
+exasperat[a-z]*	-2	General Inquirer Feb 2010
+excel[a-z]*	3	Jul-11
+excellence	4	Hannes GI add
+excellent	4	Jul-11
+excess	-2	General Inquirer Feb 2010
+excessive[a-z]*	-2	General Inquirer Feb 2010
+excit[a-z]*	3	
+exclude	-2	General Inquirer Feb 2010
+exclusion[a-z]*	-2	General Inquirer Feb 2010
+excommunicat[a-z]*	-2	General Inquirer Feb 2010
+excrement	-4	Feb-11
+excruciat[a-z]*	-5	
+execute[a-z]*	-2	General Inquirer Feb 2010
+exempt[a-z]*	-2	General Inquirer Feb 2010
+exhaust[a-z]*	-2	
+exile[a-z]*	-2	General Inquirer Feb 2010
+exit	-2	General Inquirer Feb 2010
+expedient	-2	General Inquirer Feb 2010
+expel[a-z]*	-2	General Inquirer Feb 2010
+expense	-2	General Inquirer Feb 2010
+expensive[a-z]*	-2	General Inquirer Feb 2010
+explode[a-z]*	-2	General Inquirer Feb 2010
+explosion[a-z]*	-2	General Inquirer Feb 2010
+explosive[a-z]*	-2	General Inquirer Feb 2010
+expose[a-z]*	-2	General Inquirer Feb 2010
+exterminat[a-z]*	-2	General Inquirer Feb 2010
+extinct	-2	General Inquirer Feb 2010
+extinguish[a-z]*	-2	General Inquirer Feb 2010
+extravagant[a-z]*	-2	General Inquirer Feb 2010
+exuberan[a-z]*	3	kev add
+fab	3	
+fabricat[a-z]*	-2	General Inquirer Feb 2010
+fabulous[a-z]*	3	
+faggot	-2	Feb-11
+fail[a-z]*	-3	
+faint	-2	General Inquirer Feb 2010
+faith[a-z]*	2	
+faithless[a-z]*	-3	kev add
+fake[a-z]*	-2	
+fallacy	-2	General Inquirer Feb 2010
+fallout	-2	General Inquirer Feb 2010
+falsehood[a-z]*	-2	General Inquirer Feb 2010
+falter[a-z]*	-2	General Inquirer Feb 2010
+famine[a-z]*	-2	General Inquirer Feb 2010
+famished	-2	General Inquirer Feb 2010
+fanatic[a-z]*	-2	General Inquirer Feb 2010
+fantastic[a-z]*	3	
+fantastical[a-z]*	1	kev mod
+farce	-2	General Inquirer Feb 2010
+fascist	-2	General Inquirer Feb 2010
+fat	-2	Feb-11
+fatal[a-z]*	-3	
+fathead[a-z]*	-3	Feb-11
+fatigu[a-z]*	-3	
+fatty	-2	Feb-11
+fault[a-z]*	-2	
+favor[a-z]*	2	
+favoritism[a-z]*	-2	kev add
+favour[a-z]*	2	
+favouritism[a-z]*	-2	kev add
+fear	-4	
+feared	-3	
+fearful[a-z]*	-3	
+fearing	-3	
+fearless[a-z]*	2	
+fears	-3	
+fearsome	-2	General Inquirer Feb 2010
+feeble	-2	General Inquirer Feb 2010
+feign[a-z]*	-2	General Inquirer Feb 2010
+feint	-2	General Inquirer Feb 2010
+feroc[a-z]*	-4	
+festiv[a-z]*	1	
+feud[a-z]*	-3	
+fever	-2	General Inquirer Feb 2010
+feverish	-2	General Inquirer Feb 2010
+fiasco	-2	General Inquirer Feb 2010
+fickle	-2	General Inquirer Feb 2010
+fidget[a-z]*	-2	General Inquirer Feb 2010
+fiend	-3	General Inquirer Feb 2010
+fierce[a-z]*	-3	General Inquirer Feb 2010
+fiery	-2	
+fiesta[a-z]*	1	
+fight[a-z]*	-3	
+filth	-4	Feb-11
+filthy	-2	General Inquirer Feb 2010
+fine	3	auto check 4 aug 2009
+fired	-3	removed	flatter[a-z]*	1
+fist	-2	General Inquirer Feb 2010
+flagrant[a-z]*	-2	General Inquirer Feb 2010
+flame	-3	
+flamed	-3	
+flaw	-2	General Inquirer Feb 2010
+flawless[a-z]*	2	
+fled	-2	General Inquirer Feb 2010
+flee[a-z]*	-2	General Inquirer Feb 2010
+fleeting	-2	General Inquirer Feb 2010
+flexib[a-z]*	1	
+flimsy	-2	General Inquirer Feb 2010
+flirt[a-z]*	2	
+flounder[a-z]*	-2	General Inquirer Feb 2010
+flunk[a-z]*	-3	
+foe[a-z]*	-3	
+foet[a-z]*	1	kev add	foetus and related	
+foetid	-5	kev add
+foible[a-z]*	-2	General Inquirer Feb 2010
+fond	3	
+fondly	3	
+fondness	3	
+fool[a-z]*	-2	
+forbid[a-z]*	-2	
+forbidding[a-z]*	-3	kev add
+force	-2	General Inquirer Feb 2010
+foreboding	-2	General Inquirer Feb 2010
+foreign	-2	General Inquirer Feb 2010
+forfeit	-2	General Inquirer Feb 2010
+forgave	2	
+forgetfulness	-2	General Inquirer Feb 2010
+forgiv[a-z]*	2	
+forlorn[a-z]*	-3	General Inquirer Feb 2010
+formidable	-2	General Inquirer Feb 2010
+forsake	-2	General Inquirer Feb 2010
+fought	-3	
+founder	-2	General Inquirer Feb 2010
+fracture[a-z]*	-2	General Inquirer Feb 2010
+fragile	-2	General Inquirer Feb 2010
+frantic[a-z]*	-2	
+fraud[a-z]*	-2	General Inquirer Feb 2010
+fraught	-2	General Inquirer Feb 2010
+freak[a-z]*	-2	removed	free	2	free[a-z]*	2	freeb[a-z]*	2	freed[a-z]*	2	freeing	2	freely	2	freeness	2	freer	2	frees[a-z]*	2
+fret[a-z]*	-3	General Inquirer Feb 2010 kev mod	kev remove fretful	-2	General Inquirer Feb 2010	
+fretsaw[a-z]*	-1	kev add
+friend[a-z]*	2	kev add back in
+fright[a-z]*	-4	
+frigid[a-z]*	-2	General Inquirer Feb 2010 kev mod
+frivolous	-2	General Inquirer Feb 2010
+frolic[a-z]*	4	Hannes GI add
+frown[a-z]*	-2	General Inquirer Feb 2010
+fruitless	-2	General Inquirer Feb 2010
+frustrat[a-z]*	-3	
+fuck	-3	
+fucked[a-z]*	-3	
+fucker[a-z]*	-3	
+fuckface	-3	Feb-11
+fuckin[a-z]*	-1	'changed from -3 - a booster word more than a negative word
+fucks	-3	
+fuckwit	-2	Feb-11
+fuctard	-2	Feb-11
+fud	-3	fear, uncertainty and doubt
+fugitive[a-z]*	-2	General Inquirer Feb 2010
+fugly	-4	Feb-11
+fumble[a-z]*	-2	General Inquirer Feb 2010
+fume[a-z]*	-3	
+fumes	-2	kev mod
+fuming	-4	
+fun	2	
+funn[a-z]*	2	
+funnel[a-z]*	1	kev mod
+furious[a-z]*	-4	
+fury	-4	
+fuss	-2	General Inquirer Feb 2010
+fussy	-2	General Inquirer Feb 2010
+futility	-2	General Inquirer Feb 2010
+gall	-2	General Inquirer Feb 2010
+gamble[a-z]*	-2	General Inquirer Feb 2010
+gaol[a-z]*	-2	Feb-11
+garbage	-3	Feb-11
+gash[a-z]*	-2	General Inquirer Feb 2010
+gassed	-2	Feb-11
+gaudy	-2	General Inquirer Feb 2010
+gay	-2	common in US as term of abuse
+geek[a-z]*	-1	
+genero[a-z]*	2	
+gentle	2	
+gentler	3	
+gentlest	3	
+gently	2	
+germ[a-z]*	-2	General Inquirer Feb 2010
+ghastly	-2	General Inquirer Feb 2010
+ghetto	-2	General Inquirer Feb 2010
+gibberi[a-z]*	-2	Feb-11
+giggl[a-z]*	3	removed	giver[a-z]*	2	giving	2
+glad	2	
+gladden[a-z]*	3	Hannes GI add
+gladly	2	
+gladness	3	Hannes GI add
+glamor[a-z]*	2	
+glamour[a-z]*	2	
+glare[a-z]*	-2	General Inquirer Feb 2010
+gloat[a-z]*	-2	General Inquirer Feb 2010
+gloom[a-z]*	-3	
+glori[a-z]*	2	
+glorification	-2	kev mod
+glory	2	
+glum[a-z]*	-3	General Inquirer Feb 2010 kev mod
+gmbo	3	giggling my butt off
+goddam[a-z]*	-3	
+good	2	Could also be 1?
+goodness	3	
+gorgeous[a-z]*	3	
+gossip[a-z]*	-1	
+grab[a-z]*	-2	General Inquirer Feb 2010
+grace	3	
+graced	2	
+graceful[a-z]*	3	
+graces	2	
+graci[a-z]*	2	
+gracil[a-z]*	1	kev mod
+grand	2	
+grande[a-z]*	2	
+grapple	-2	General Inquirer Feb 2010
+gratef[a-z]*	2	
+grati[a-z]*	2	
+gratuitous	-2	General Inquirer Feb 2010
+grave[a-z]*	-3	
+gravel[a-z]*	1	kev mod
+great[a-z]*	3	auto check 4 aug 2009
+greed[a-z]*	-3	
+grief	-4	
+griev[a-z]*	-4	
+grim[a-z]*	-3	
+grime[a-z]*	-2	kev add
+grimi[a-z]*	-2	kev add
+grin	2	
+grinn[a-z]*	2	
+grins	2	
+grizzly	-2	General Inquirer Feb 2010
+gross[a-z]*	-2	
+grotesque	-2	General Inquirer Feb 2010
+grouch[a-z]*	-2	
+groucho[a-z]*	1	kev add
+growl	-2	General Inquirer Feb 2010
+grr[a-z]*	-3	
+grudge	-2	General Inquirer Feb 2010
+gruff	-2	General Inquirer Feb 2010
+grumbl[a-z]*	-3	General Inquirer Feb 2010
+guerrilla[a-z]*	-2	General Inquirer Feb 2010
+guilt[a-z]*	-4	
+guiltless[a-z]*	1	kev add
+guise	-2	General Inquirer Feb 2010
+gullible	-2	General Inquirer Feb 2010
+gun[a-z]*	-2	General Inquirer Feb 2010
+gunmen	-2	General Inquirer Feb 2010
+h8	-4	hate
+ha	2	
+hack	-2	
+hag	-2	General Inquirer Feb 2010
+haggard	-2	General Inquirer Feb 2010
+haha[a-z]*	2	
+halfwit	-2	Feb-11
+handicap	-2	General Inquirer Feb 2010
+handsom[a-z]*	2	
+hang	-2	General Inquirer Feb 2010
+hangover[a-z]*	-3	Feb-11
+haphazard[a-z]*	-2	General Inquirer Feb 2010
+hapless[a-z]*	-2	General Inquirer Feb 2010
+happi[a-z]*	3	
+happy	2	27 July 2009 down from +3
+harass[a-z]*	-3	
+hardship[a-z]*	-2	General Inquirer Feb 2010
+harm	-3	
+harmed	-3	
+harmful[a-z]*	-2	
+harming	-3	
+harmless[a-z]*	2	
+harmon[a-z]*	2	
+harmonic[a-z]*	1	kev add
+harmonies	1	kev add
+harmonisation	1	kev add
+harmonization	1	kev add
+harms	-3	
+harsh	-2	General Inquirer Feb 2010
+hassle[a-z]*	-2	General Inquirer Feb 2010
+hate	-4	
+hated	-4	
+hateful[a-z]*	-4	
+hater[a-z]*	-4	
+hates	-4	
+hating	-4	
+hatred	-4	
+haughty	-2	General Inquirer Feb 2010
+haunt	-2	General Inquirer Feb 2010
+havoc	-2	General Inquirer Feb 2010
+hazard	-2	General Inquirer Feb 2010
+hazardous	-2	General Inquirer Feb 2010
+haziness	-2	General Inquirer Feb 2010
+hazy	-2	General Inquirer Feb 2010
+headache	-2	General Inquirer Feb 2010
+heartbreak[a-z]*	-4	
+heartbroke[a-z]*	-4	
+heartfelt	2	
+heartless[a-z]*	-3	
+heartwarm[a-z]*	3	
+heaven[a-z]*	2	
+hectic	-2	this year has been hectic
+heedless	-2	General Inquirer Feb 2010
+hehe[a-z]*	2	
+heinous[a-z]*	-5	General Inquirer Feb 2010 kev mod
+hell	-2	29 July 2009 - changed from -3
+hellish	-3	removed	helper[a-z]*	2
+helpful[a-z]*	2	helping	2	
+helpless[a-z]*	-2	removed	helps	2
+hero[a-z]*	3	
+hesita[a-z]*	-1	
+hey	2	27-Jul-09
+hideous	-2	Feb-11
+hijack[a-z]*	-2	Feb-11
+hilarious[a-z]*	3	
+hilarity	3	kev add
+hinder	-2	General Inquirer Feb 2010
+hindrance	-2	General Inquirer Feb 2010
+hoard[a-z]*	-2	General Inquirer Feb 2010
+hobble	-2	General Inquirer Feb 2010
+hogwash	-2	Feb-11
+hoho[a-z]*	3	
+hollow	-2	General Inquirer Feb 2010
+homely	-2	General Inquirer Feb 2010
+homesick[a-z]*	-3	
+homie	2	27-Jul-09
+homo	-3	Feb-11
+honest[a-z]*	1	
+honesty	2	kev add
+honor[a-z]*	1	
+honorabl[a-z]*	2	kev add
+honour[a-z]*	1	
+honourabl[a-z]*	2	kev add
+hooey	-2	Feb-11
+hope	3	auto check 4 aug 2009
+hoped	2	
+hopeful	2	
+hopefully	1	
+hopefulness	2	
+hopeless[a-z]*	-4	
+hopes	2	
+hoping	2	
+horde	-2	General Inquirer Feb 2010
+horr[a-z]*	-4	
+hostil[a-z]*	-3	
+hug	3	
+hugg[a-z]*	3	
+hugs	3	
+humiliat[a-z]*	-4	
+humor[a-z]*	3	
+humorless[a-z]*	-3	kev add
+humour[a-z]*	3	
+humourless[a-z]*	-3	kev add
+hunger	-2	General Inquirer Feb 2010
+hungr[a-z]*	-2	new - hungry
+hunter	-2	General Inquirer Feb 2010
+hurra[a-z]*	3	
+hurt[a-z]*	-3	removed	ideal[a-z]*	2
+hurtl[a-z]*	1	kev add
+hustle	-2	General Inquirer Feb 2010
+hustler	-2	General Inquirer Feb 2010
+hypochondriac	-2	Feb-11
+hypocrisy	-2	General Inquirer Feb 2010
+hypocrite	-3	Feb-11
+hysteria	-2	General Inquirer Feb 2010
+hysterical	-2	General Inquirer Feb 2010
+idioc[a-z]*	-3	kev add
+idiot[a-z]*	-3	kev mod
+idleness	-2	General Inquirer Feb 2010
+ignoble	-2	General Inquirer Feb 2010
+ignor[a-z]*	-3	
+ignore[a-z]*	1	kev add
+ignoring	1	kev add
+ill	-2	General Inquirer Feb 2010
+illegal	-2	General Inquirer Feb 2010
+illegality	-2	General Inquirer Feb 2010
+illiterate	-2	Feb-11
+illness	-2	General Inquirer Feb 2010
+illogical	-2	General Inquirer Feb 2010
+imaginative[a-z]*	2	Hannes GI add
+imbecile	-2	Feb-11
+immaculate[a-z]*	2	Hannes GI add
+immature	-2	General Inquirer Feb 2010
+immobility	-2	General Inquirer Feb 2010
+immoral[a-z]*	-3	
+immortal	2	Hannes GI add
+immovable	-2	General Inquirer Feb 2010
+impair[a-z]*	-2	General Inquirer Feb 2010
+impasse	-2	General Inquirer Feb 2010
+impatien[a-z]*	-2	
+impede[a-z]*	-2	General Inquirer Feb 2010
+impediment	-2	General Inquirer Feb 2010
+imperfect[a-z]*	-2	General Inquirer Feb 2010
+impersonal	-1	
+impetuous[a-z]*	-2	General Inquirer Feb 2010
+implicate	-2	General Inquirer Feb 2010
+implore	-2	General Inquirer Feb 2010
+impolite[a-z]*	-3	
+importan[a-z]*	1	
+impose[a-z]*	-2	General Inquirer Feb 2010
+imprecision	-2	General Inquirer Feb 2010
+impress[a-z]*	2	
+impression[a-z]*	1	kev add
+imprison[a-z]*	-2	General Inquirer Feb 2010
+improp[a-z]*	-2	General Inquirer Feb 2010
+improve[a-z]*	2	
+improving	2	
+impulsive	-2	General Inquirer Feb 2010
+impure	-2	General Inquirer Feb 2010
+impurity	-2	General Inquirer Feb 2010
+inability	-2	General Inquirer Feb 2010
+inaccessib[a-z]*	-2	General Inquirer Feb 2010
+inaccuracy	-2	General Inquirer Feb 2010
+inadequa[a-z]*	-2	
+inane	-2	General Inquirer Feb 2010
+incapable	-2	General Inquirer Feb 2010
+incentive[a-z]*	1	
+incessant	-2	General Inquirer Feb 2010
+incompatib[a-z]*	-3	General Inquirer Feb 2010
+incompeten[a-z]*	-3	Feb-11
+inconsisten[a-z]*	-2	General Inquirer Feb 2010
+inconvenien[a-z]*	-2	General Inquirer Feb 2010
+incorrect	-2	General Inquirer Feb 2010
+incredible	1	General Inquirer Feb 2010
+incurable	-2	General Inquirer Feb 2010
+indecen[a-z]*	-3	General Inquirer Feb 2010
+indecis[a-z]*	-2	
+indefinite	-2	General Inquirer Feb 2010
+indetermin[a-z]*	-2	General Inquirer Feb 2010
+indictment	-2	General Inquirer Feb 2010
+indifference	-2	General Inquirer Feb 2010
+indifferent	-2	General Inquirer Feb 2010
+indignation	-3	General Inquirer Feb 2010
+indulge	-2	General Inquirer Feb 2010
+ineffect[a-z]*	-2	
+inefficiency	-2	General Inquirer Feb 2010
+inequalit[a-z]*	-2	General Inquirer Feb 2010
+inexact[a-z]*	-2	General Inquirer Feb 2010
+inexplicable	-2	General Inquirer Feb 2010
+infamous[a-z]*	-2	General Inquirer Feb 2010
+infect[a-z]*	-2	General Inquirer Feb 2010
+inferior[a-z]* 	-2	
+infest[a-z]*	-3	General Inquirer Feb 2010
+infiltrat[a-z]*	-2	General Inquirer Feb 2010
+inflame[a-z]*	-2	General Inquirer Feb 2010
+inflation	-2	General Inquirer Feb 2010
+inflict	-2	General Inquirer Feb 2010
+infraction[a-z]*	-2	General Inquirer Feb 2010
+infringement[a-z]*	-2	General Inquirer Feb 2010
+infuriate[a-z]*	-2	General Inquirer Feb 2010
+ingratitude	-2	General Inquirer Feb 2010
+inhib[a-z]*	-2	
+inhuman[a-z]*	-3	General Inquirer Feb 2010
+injunction[a-z]*	-2	General Inquirer Feb 2010
+injure	-2	General Inquirer Feb 2010
+injurious	-2	General Inquirer Feb 2010
+injury	-2	General Inquirer Feb 2010
+innocen[a-z]*	2	
+insane	-2	General Inquirer Feb 2010
+insecur[a-z]*	-2	
+insensible	-2	General Inquirer Feb 2010
+insidious[a-z]*	-3	General Inquirer Feb 2010
+insignifican[a-z]*	-2	General Inquirer Feb 2010
+insincer[a-z]*	-3	
+insinuat[a-z]*	-2	General Inquirer Feb 2010
+insolence	-2	General Inquirer Feb 2010
+insolent	-2	General Inquirer Feb 2010
+inspir[a-z]*	3	
+instability	-2	General Inquirer Feb 2010
+instable	-2	General Inquirer Feb 2010
+insufficien[a-z]*	-2	General Inquirer Feb 2010
+insult[a-z]*	-3	
+intellect	1	kev add
+intelligent[a-z]*	2	kev add/mod
+intelligib[a-z]*	1	kev add
+interest[a-z]*	2	
+interfer[a-z]*	-2	General Inquirer Feb 2010
+interrup[a-z]*	-2	
+intimidat[a-z]*	-4	
+intolerable	-4	General Inquirer Feb 2010
+intolleran[a-z]*	-3	Feb-11
+intoxicate[a-z]*	-2	General Inquirer Feb 2010
+intrud[a-z]*	-2	General Inquirer Feb 2010
+intrusion[a-z]*	-2	General Inquirer Feb 2010
+inundate[a-z]*	-2	General Inquirer Feb 2010
+invade[a-z]*	-2	General Inquirer Feb 2010
+invalid[a-z]*	-2	General Inquirer Feb 2010
+invigor[a-z]*	2	
+invisible	-2	General Inquirer Feb 2010
+involuntary	-2	General Inquirer Feb 2010
+irk[a-z]*	-2	General Inquirer Feb 2010
+ironic[a-z]*	-2	General Inquirer Feb 2010
+irony	-2	General Inquirer Feb 2010
+irrational[a-z]*	-3	
+irregular[a-z]*	-2	General Inquirer Feb 2010
+irresponsib[a-z]*	-2	General Inquirer Feb 2010
+irrita[a-z]*	-3	
+isolat[a-z]*	-2	
+jackass[a-z]*	-2	Feb-11
+jaded	-3	
+jail[a-z]*	-2	Feb-11
+jealous[a-z]*	-3	
+jeer[a-z]*	-3	General Inquirer Feb 2010
+jeopardise[a-z]*	-2	General Inquirer Feb 2010
+jeopardize[a-z]*	-2	General Inquirer Feb 2010
+jeopardy	-2	General Inquirer Feb 2010
+jerk	-3	
+jerked	-1	
+jerks	-3	
+jittery	-2	General Inquirer Feb 2010
+jobless	-2	General Inquirer Feb 2010
+joke[a-z]*	2	
+joking	3	
+joll[a-z]*	3	
+jolliet	1	kev add
+joy[a-z]*	3	
+joyrid[a-z]*	-2	kev add
+joystick	1	kev add
+jumpy	-2	General Inquirer Feb 2010
+junk	-2	Feb-11
+keen[a-z]*	1	
+kick[a-z]*	-2	General Inquirer Feb 2010
+kidding	1	
+kidnap	-2	General Inquirer Feb 2010
+kill	-2	General Inquirer Feb 2010
+killed	-4	
+killer	-2	
+killing	-2	
+killjoy	-2	kev add
+kind	2	was 3 - 2 aug 2009 could be "kind of"=neutral
+kindly	2	
+kindn[a-z]*	2	
+kiss[a-z]*	3	
+knife	-2	General Inquirer Feb 2010
+lack	-2	General Inquirer Feb 2010
+laidback	2	
+lame[a-z]*	-3	
+lament[a-z]*	-2	General Inquirer Feb 2010
+languish	-2	General Inquirer Feb 2010
+lapse	-2	General Inquirer Feb 2010
+laugh[a-z]*	2	27 July 2009 change from 2
+laughable	-2	Feb-11
+laughingstock[a-z]*	-3	kev add
+lawless	-2	General Inquirer Feb 2010
+lawsuit	-2	Feb-11
+lazie[a-z]*	-2	
+lazily	-2	General Inquirer Feb 2010
+lazy	-2	
+leak	-2	General Inquirer Feb 2010
+leakage	-2	General Inquirer Feb 2010
+leaking	-2	General Inquirer Feb 2010
+liabilit[a-z]*	-3	
+liable	-2	General Inquirer Feb 2010
+liar[a-z]*	-3	removed	libert[a-z]*	2
+libel	-3	Feb-11
+lied	-3	
+lies	-3	2
+lifeless	-2	General Inquirer Feb 2010
+like	2	Note - could be comparator - A is like B but gives better results with 2 than 1 Aug 2, 2009
+likeab[a-z]*	3	
+liked	3	
+likes	3	
+liking	3	
+limitation	-2	General Inquirer Feb 2010
+limp	-2	General Inquirer Feb 2010
+liquidate[a-z]*	-2	General Inquirer Feb 2010
+liquidation[a-z]*	-2	General Inquirer Feb 2010
+litig[a-z]*	-2	Feb-11
+litter[a-z]*	-2	General Inquirer Feb 2010
+livel[a-z]*	2	
+livelihood	1	kev add
+lmao	3	
+lol	2	27 July 2009 (from 3)
+lolol[a-z]*	2	27-Jul-09
+lone[a-z]*	-2	
+longing[a-z]*	-3	
+lose	-2	
+loser[a-z]*	-3	
+loses	-2	
+losing	-3	
+loss[a-z]*	-3	
+lost	-1	
+lous[a-z]*	-3	
+love	3	(2 Aug 2009) fairly mild in myspace, often used formally, when should be 2
+loved	4	
+loveless[a-z]*	-3	General Inquirer Feb 2010
+loveli[a-z]*	3	kev add
+lovely	2	27-Jul-09
+lovemak[a-z]*	4	kev add
+lover[a-z]*	4	
+loves	3	
+lovin	3	slang
+loving[a-z]*	4	kev add
+low[a-z]*	-2	
+lower[a-z]*	1	kev add
+loyal[a-z]*	2	
+luck	3	wasn't Changed 2 Aug 2009 -although often used as neutral or negative
+lucked	3	
+lucki[a-z]*	3	
+luckless[a-z]*	-3	
+lucks	3	
+lucky	2	3->2 Changed 2 Aug 2009 -as often used as neutral or negative
+ludicrous[a-z]*	-3	
+lull	-2	General Inquirer Feb 2010
+lunatic	-2	General Inquirer Feb 2010
+lunkhead	-2	Feb-11
+lure	-2	General Inquirer Feb 2010
+lurk	-1	General Inquirer Feb 2010
+luv	3	love
+lying	-4	
+mad	-2	29 July 2009 - changed from -3
+madden[a-z]*	-3	kev mod
+madder	-3	
+maddest	-3	
+madly	2	
+madman	-2	General Inquirer Feb 2010
+madmen	-2	General Inquirer Feb 2010
+madness	-2	General Inquirer Feb 2010
+magnific[a-z]*	4	
+magnification	1	Tuomo Aug 3 2011
+maladjusted	-2	General Inquirer Feb 2010
+maladjustment	-2	General Inquirer Feb 2010
+malady	-2	General Inquirer Feb 2010
+malice	-4	General Inquirer Feb 2010
+malicious[a-z]*	-4	General Inquirer Feb 2010
+malign	-3	Feb-11
+malignan[a-z]*	-4	Feb-11
+mangle	-2	General Inquirer Feb 2010
+maniac[a-z]*	-3	
+manipulat[a-z]*	-2	General Inquirer Feb 2010
+manslaughter	-4	General Inquirer Feb 2010
+mar	-2	General Inquirer Feb 2010
+marginal	-2	General Inquirer Feb 2010
+martyr[a-z]*	-2	Feb-11
+masochis[a-z]*	-3	
+massacre[a-z]*	-2	General Inquirer Feb 2010
+mate	2	
+meager[a-z]*	-2	General Inquirer Feb 2010
+meanie	-2	Feb-11
+meaningless[a-z]*	-2	General Inquirer Feb 2010
+meddle	-2	General Inquirer Feb 2010
+mediocr[a-z]*	-2	General Inquirer Feb 2010
+meek[a-z]*	-2	General Inquirer Feb 2010
+melanchol[a-z]*	-4	
+melodramatic[a-z]*	-2	General Inquirer Feb 2010
+menace	-3	General Inquirer Feb 2010
+menial	-2	General Inquirer Feb 2010
+merciless[a-z]*	-2	General Inquirer Feb 2010
+merit[a-z]*	2	
+merr[a-z]*	2	
+mess	-1	
+messy	-1	
+miraculous	3	Hannes GI add
+misbehave[a-z]*	-2	General Inquirer Feb 2010
+misbehavior	-2	General Inquirer Feb 2010
+mischief	-2	General Inquirer Feb 2010
+mischievous[a-z]*	-2	General Inquirer Feb 2010
+miser[a-z]*	-3	
+misfortune[a-z]*	-2	General Inquirer Feb 2010
+mishandle[a-z]*	-2	General Inquirer Feb 2010
+mishap	-2	General Inquirer Feb 2010
+misinform[a-z]*	-2	General Inquirer Feb 2010
+mislead	-2	General Inquirer Feb 2010
+misrepresent[a-z]*	-2	General Inquirer Feb 2010
+miss	-2	General Inquirer Feb 2010
+missed	-2	
+misses	-3	
+mistak[a-z]*	-2	
+mistrust[a-z]*	-2	General Inquirer Feb 2010
+misunderst[a-z]*	-2	General Inquirer Feb 2010
+misuse	-2	General Inquirer Feb 2010
+moan	-2	General Inquirer Feb 2010
+mock	-3	
+mocked	-3	
+mocker[a-z]*	-3	
+mocking	-3	
+mockingbird	1	kev add
+mocks	-3	
+mogoloid	-2	Feb-11
+molest[a-z]*	-4	
+momentous	3	Hannes GI add
+mong	-2	Feb-11
+monotonous[a-z]*	-2	General Inquirer Feb 2010
+monotony	-2	General Inquirer Feb 2010
+monster	-2	General Inquirer Feb 2010
+monstrous[a-z]*	-3	General Inquirer Feb 2010
+mooch[a-z]*	-2	
+moodi[a-z]*	-3	
+moody	-3	
+moron[a-z]*	-3	
+mortif[a-z]*	-3	General Inquirer Feb 2010
+motherfucker	-4	Feb-11
+motionless	-2	General Inquirer Feb 2010
+motley	-2	General Inquirer Feb 2010
+mourn[a-z]*	-3	
+muah	3	auto check 4 aug 2009
+muddle[a-z]*	-2	General Inquirer Feb 2010
+muddy	-2	General Inquirer Feb 2010
+mumble[a-z]*	-2	General Inquirer Feb 2010
+mundane	-2	General Inquirer Feb 2010
+murder[a-z]*	-4	
+murky	-2	General Inquirer Feb 2010
+muthafuck[a-z]*	-4	Feb-11
+mutter	-2	General Inquirer Feb 2010
+nag[a-z]*	-2	
+naga[a-z]*	1	kev add
+naive[a-z]*	-2	General Inquirer Feb 2010
+nast[a-z]*	-3	
+nasturtium	1	kev add
+naughty	-2	General Inquirer Feb 2010
+nazi[a-z]*	-2	Feb-11
+neat[a-z]*	1	
+nebulous[a-z]*	-2	General Inquirer Feb 2010
+needy	-2	
+negativ[a-z]*	-2	General Inquirer Feb 2010
+neglect[a-z]*	-1	
+negligen[a-z]*	-3	General Inquirer Feb 2010
+nerd[a-z]*	-3	
+nervous[a-z]*	-3	
+neurotic[a-z]*	-3	
+neutralize[a-z]*	-2	General Inquirer Feb 2010
+nice[a-z]*	2	
+nightmare	-3	General Inquirer Feb 2010
+nimble	2	Hannes GI add
+nincompoop	-2	Feb-11
+ninny	-2	Feb-11
+nix	-2	General Inquirer Feb 2010
+noise	-1	General Inquirer Feb 2010
+nonchalant	-1	General Inquirer Feb 2010
+nonsens[a-z]*	-2	Feb-11
+nosey	-2	General Inquirer Feb 2010
+notorious[a-z]*	-2	General Inquirer Feb 2010
+novice	-2	General Inquirer Feb 2010
+noxious[a-z]*	-3	kev add
+nucklehead[a-z]*	-2	Feb-11
+nuisance	-2	General Inquirer Feb 2010
+nullification[a-z]*	-2	General Inquirer Feb 2010
+nullify	-2	General Inquirer Feb 2010
+numb[a-z]*	-2	
+number[a-z]*	1	kev add
+numpty	-2	Feb-11
+nurtur[a-z]*	1	
+nutcase[a-z]*	-2	Feb-11
+nutter[a-z]*	-2	new
+oaf	-2	Feb-11
+obes[a-z]*	-2	Feb-11
+objection[a-z]*	-2	General Inquirer Feb 2010
+oblique	-2	General Inquirer Feb 2010
+obliterate[a-z]*	-2	General Inquirer Feb 2010
+obnoxious[a-z]*	-3	
+obscure	-1	General Inquirer Feb 2010
+obsess[a-z]*	-3	
+obsolete	-2	General Inquirer Feb 2010
+obstacle[a-z]*	-2	General Inquirer Feb 2010
+obstinate[a-z]*	-2	General Inquirer Feb 2010
+obstruct[a-z]*	-2	General Inquirer Feb 2010
+obstruction[a-z]*	-2	General Inquirer Feb 2010
+odd	-1	General Inquirer Feb 2010
+oddity	-2	General Inquirer Feb 2010
+offence[a-z]*	-2	
+offend[a-z]*	-3	
+offender	-2	kev add
+offens[a-z]*	-3	
+ok	1	
+okay	1	
+okays	1	
+oks	1	
+omfg	2	
+omg	2	
+ominous[a-z]*	-3	General Inquirer Feb 2010
+omissions	-2	General Inquirer Feb 2010
+omit	-2	General Inquirer Feb 2010
+openminded[a-z]*	1	
+openness	1	
+opinionated	-2	General Inquirer Feb 2010
+opponent	-2	General Inquirer Feb 2010
+opportun[a-z]*	1	
+oppose	-2	General Inquirer Feb 2010
+opposition	-2	General Inquirer Feb 2010
+oppress[a-z]*	-3	General Inquirer Feb 2010
+optimal[a-z]*	1	
+optimi[a-z]*	1	
+optimism	2	Hannes GI add
+optimistic[a-z]*	2	kev add
+ordeal[a-z]*	-3	General Inquirer Feb 2010 kev mod
+original	1	
+orphan	-2	General Inquirer Feb 2010
+ostracize	-2	General Inquirer Feb 2010
+oust	-2	General Inquirer Feb 2010
+outbreak[a-z]*	-2	General Inquirer Feb 2010
+outburst[a-z]*	-2	General Inquirer Feb 2010
+outcast	-2	General Inquirer Feb 2010
+outcry	-3	General Inquirer Feb 2010
+outgoing	1	
+outlaw[a-z]*	-2	General Inquirer Feb 2010
+outrag[a-z]*	-3	
+outsider[a-z]*	-2	General Inquirer Feb 2010
+outstanding	3	Hannes GI add
+overbearing	-2	General Inquirer Feb 2010
+overflow[a-z]*	-2	General Inquirer Feb 2010
+overjoyed	5	Hannes GI add
+overlook[a-z]*	-2	General Inquirer Feb 2010
+overpower[a-z]*	-2	General Inquirer Feb 2010
+overrun	-2	General Inquirer Feb 2010
+oversight[a-z]*	-2	General Inquirer Feb 2010
+overthrow[a-z]*	-2	General Inquirer Feb 2010
+overturn[a-z]*	-2	General Inquirer Feb 2010
+overweight	-2	Feb-11
+overwhelm[a-z]*	-3	
+overwork[a-z]*	-2	General Inquirer Feb 2010
+owe	-2	General Inquirer Feb 2010
+pain	-4	
+pained	-2	
+painf[a-z]*	-4	
+paining	-4	
+painl[a-z]*	2	
+pains	-4	
+palatabl[a-z]*	2	
+paltry	-2	General Inquirer Feb 2010
+pambering	3	kev add
+pamper	2	Hannes GI add
+pampered	3	kev add
+pampers	1	kev add
+pandemonium	-2	General Inquirer Feb 2010
+panic[a-z]*	-3	
+paradise	4	
+paralysis	-2	General Inquirer Feb 2010
+paralyzed	-2	General Inquirer Feb 2010
+paranoi[a-z]*	-3	
+parasit[a-z]*	-3	General Inquirer Feb 2010
+partie[a-z]*	1	
+partition[a-z]*	-2	General Inquirer Feb 2010
+party[a-z]*	1	
+passe	-2	General Inquirer Feb 2010
+passion[a-z]*	3	
+pathetic[a-z]*	-3	
+peace[a-z]*	1	
+peculiar[a-z]*	-1	
+perfect[a-z]*	2	
+perfectionis[a-z]*	1	kev add
+peril[a-z]*	-2	General Inquirer Feb 2010
+perish[a-z]*	-2	General Inquirer Feb 2010
+perplex[a-z]*	-2	General Inquirer Feb 2010
+persecut[a-z]*	-3	General Inquirer Feb 2010
+perturb[a-z]*	-2	General Inquirer Feb 2010
+perver[a-z]*	-2	
+pessimis[a-z]*	-3	
+pest	-2	General Inquirer Feb 2010
+petrif[a-z]*	-4	
+pettie[a-z]*	-1	
+petty[a-z]*	-1	
+phobi[a-z]*	-3	
+picturesque	2	Hannes GI add
+piffle	-2	Feb-11
+pillock	-2	Feb-11
+pinch	-2	General Inquirer Feb 2010
+pinhead	-2	Feb-11
+piss[a-z]*	-3	
+pissup[a-z]*	1	kev add
+piti[a-z]*	-3	
+pity[a-z]* 	-2	
+plague[a-z]*	-2	General Inquirer Feb 2010
+plaintiff	-2	General Inquirer Feb 2010
+play	1	
+played	1	
+playful[a-z]*	2	
+playing	2	
+plays	2	
+pleasant[a-z]*	3	
+please[a-z]*	2	
+pleasing[a-z]*	3	
+pleasur[a-z]*	3	
+plight	-2	General Inquirer Feb 2010
+plod	-2	General Inquirer Feb 2010
+plonker	-2	Feb-11
+pointless	-2	Feb-11
+poison[a-z]*	-3	
+pollut[a-z]*	-2	General Inquirer Feb 2010
+pompous[a-z]*	-2	General Inquirer Feb 2010
+poor[a-z]*	-2	
+poppycock	-2	Feb-11
+popularis[a-z]*	1	kev add
+popularity	2	kev mod
+populariz[a-z]*	1	kev add
+positiv[a-z]*	3	
+positivi[a-z]*	1	kev add
+pout[a-z]*	-2	General Inquirer Feb 2010
+poverty	-2	General Inquirer Feb 2010
+powerless[a-z]*	-2	General Inquirer Feb 2010
+prais[a-z]*	3	
+prannock[a-z]*	-2	Feb-11
+prat	-2	Feb-11
+precarious[a-z]*	-2	General Inquirer Feb 2010
+precious[a-z]*	3	
+precipitate[a-z]*	-2	General Inquirer Feb 2010
+predicament[a-z]*	-2	General Inquirer Feb 2010
+prejudic[a-z]*	-3	
+preposterous[a-z]*	-2	General Inquirer Feb 2010
+pressur[a-z]*	-2	
+presumptuous[a-z]*	-3	General Inquirer Feb 2010
+pretend	-2	General Inquirer Feb 2010
+pretense	-2	General Inquirer Feb 2010
+pretentious[a-z]*	-2	General Inquirer Feb 2010
+prettie[a-z]*	3	
+prettily	2	Hannes GI add
+pretty	3	
+priceless	4	Hannes GI add
+prick[a-z]*	-3	
+prickle	1	kev mod
+pride	2	
+prison[a-z]*	-2	Feb-11
+privileg[a-z]*	2	
+prize[a-z]*	3	
+problem[a-z]*	-2	
+procrastinat[a-z]*	-2	General Inquirer Feb 2010
+prod	-2	General Inquirer Feb 2010
+profit[a-z]*	2	kev mod
+profiteer[a-z]*	-2	kev mod
+profitless[a-z]*	-2	kev mod
+prohibit[a-z]*	-2	General Inquirer Feb 2010
+promis[a-z]*	2	
+promiscu[a-z]*	-2	kev mod
+promissory	1	kev add
+propaganda	-2	General Inquirer Feb 2010
+prosecut[a-z]*	-2	General Inquirer Feb 2010
+prosperity	2	Hannes GI add
+prosperous	2	Hannes GI add
+protest[a-z]*	-2	
+proud[a-z]*	2	
+proudhon	1	kev add
+provocation[a-z]*	-2	General Inquirer Feb 2010
+provoke	-2	General Inquirer Feb 2010
+prowl[a-z]*	-2	General Inquirer Feb 2010
+pry[a-z]*	-2	General Inquirer Feb 2010
+puk[a-z]*	-3	
+puka	3	kev add
+pukka	3	kev add
+punch[a-z]*	-2	General Inquirer Feb 2010
+punish[a-z]*	-2	
+puny	-2	General Inquirer Feb 2010
+puzzlement	-2	General Inquirer Feb 2010
+qualm	-2	General Inquirer Feb 2010
+quandary	-2	General Inquirer Feb 2010
+quarrel[a-z]*	-3	General Inquirer Feb 2010
+queer	-2	Feb-11
+questionable	-2	General Inquirer Feb 2010
+quibble	-2	General Inquirer Feb 2010
+quit	-2	General Inquirer Feb 2010
+quitter	-2	General Inquirer Feb 2010
+racis[a-z]*	-2	Feb-11
+radian	1	Tuomo Aug 3, 2011
+radian[a-z]*	3	
+radians	1	Tuomo Aug 3, 2011
+radical[a-z]*	-2	General Inquirer Feb 2010
+rage[a-z]*	-4	
+raging	-4	
+raid	-2	General Inquirer Feb 2010
+ramble	-2	General Inquirer Feb 2010
+rampant	-2	General Inquirer Feb 2010
+rancid[a-z]*	-3	
+rape[a-z]*	-4	
+rapeseed	1	kev add
+raping	-4	
+rapist[a-z]*	-4	
+rapt	4	Hannes GI add
+rascal	-2	General Inquirer Feb 2010
+rash	-2	General Inquirer Feb 2010
+rat	-2	
+ration	-2	General Inquirer Feb 2010
+ravag[a-z]*	-2	General Inquirer Feb 2010
+reactionar[a-z]*	-2	General Inquirer Feb 2010
+reactive	-2	General Inquirer Feb 2010
+readiness	1	
+ready	1	
+reassur[a-z]*	2	
+rebel[a-z]*	-2	
+rebuff[a-z]*	-2	General Inquirer Feb 2010
+rebuke[a-z]*	-2	General Inquirer Feb 2010
+rebut[a-z]*	-2	Feb-11
+recalcitrant	-2	General Inquirer Feb 2010
+recede	-2	General Inquirer Feb 2010
+recession[a-z]*	-2	General Inquirer Feb 2010
+reckless[a-z]*	-2	General Inquirer Feb 2010
+recoil	-2	General Inquirer Feb 2010
+redundan[a-z]*	-2	General Inquirer Feb 2010
+reek[a-z]*	-3	
+refrain[a-z]*	-2	General Inquirer Feb 2010
+refugee[a-z]*	-2	General Inquirer Feb 2010
+refusal[a-z]*	-2	General Inquirer Feb 2010
+refuse[a-z]*	-2	General Inquirer Feb 2010
+regardless	-2	General Inquirer Feb 2010
+regress[a-z]*	-2	General Inquirer Feb 2010
+regret[a-z]*	-2	
+reject[a-z]*	-2	
+rejoice	4	Hannes GI add
+relapse	-2	General Inquirer Feb 2010
+relax[a-z]*	3	
+relief	2	
+reliev[a-z]*	2	
+reluctan[a-z]*	-2	
+remorse[a-z]*	-3	
+renounce[a-z]*	-2	General Inquirer Feb 2010
+renunciation[a-z]*	-2	General Inquirer Feb 2010
+repeal[a-z]*	-2	General Inquirer Feb 2010
+reprehensib[a-z]*	-4	General Inquirer Feb 2010
+repress[a-z]*	-2	
+reproach[a-z]*	-2	General Inquirer Feb 2010
+repudiate[a-z]*	-2	General Inquirer Feb 2010
+repugnan[a-z]*	-3	General Inquirer Feb 2010
+repulse	-2	General Inquirer Feb 2010
+repulsive	-4	General Inquirer Feb 2010
+resent[a-z]*	-3	
+resign[a-z]*	-2	
+resignation[a-z]*	-2	General Inquirer Feb 2010
+resolv[a-z]*	2	
+resourcefulness	2	Hannes GI add
+respect[a-z]*	3	
+restless[a-z]*	-2	
+restrict[a-z]*	-2	General Inquirer Feb 2010
+retaliat[a-z]*	-2	General Inquirer Feb 2010
+retard[a-z]*	-2	Feb-11
+retch[a-z]*	-3	Feb-11
+retire[a-z]*	-2	General Inquirer Feb 2010
+retreat[a-z]*	-2	General Inquirer Feb 2010
+revenge[a-z]*	-2	
+revere	2	Hannes GI add
+revert[a-z]*	-2	General Inquirer Feb 2010
+revigor[a-z]*	2	
+revitalize	2	Hannes GI add
+revoke[a-z]*	-2	General Inquirer Feb 2010
+revolt[a-z]*	-2	General Inquirer Feb 2010
+revolution[a-z]*	-2	General Inquirer Feb 2010
+reward[a-z]*	2	
+rich[a-z]*	1	
+richard[a-z]*	1	kev add
+richmond[a-z]*	1	kev add
+richness	2	Hannes GI add
+rid	-2	General Inquirer Feb 2010
+ridicul[a-z]*	-3	
+rigid[a-z]*	-2	
+rigor	1	General Inquirer Feb 2010
+rigorous	1	General Inquirer Feb 2010
+rip	-2	General Inquirer Feb 2010
+risk[a-z]*	-2	
+risky	-2	General Inquirer Feb 2010
+rival	-2	General Inquirer Feb 2010
+rivalry	-2	General Inquirer Feb 2010
+robber[a-z]*	-2	General Inquirer Feb 2010
+rock	2	As in You rock! but not as in rock, stone, can also be rock music, listen to rock
+rofl	3	
+rogue	-2	General Inquirer Feb 2010
+romanc[a-z]*	4	
+romantic[a-z]*	4	
+rot	-2	General Inquirer Feb 2010
+rotten[a-z]*	-3	kev mod
+rough[a-z]*	-2	General Inquirer Feb 2010
+roundabout	-2	General Inquirer Feb 2010
+rubbish	-3	Feb-11
+rude[a-z]*	-3	
+rue	-2	General Inquirer Feb 2010
+ruffian[a-z]*	-2	General Inquirer Feb 2010
+ruin[a-z]*	-2	
+ruins	1	kev add
+rumor	-2	General Inquirer Feb 2010
+rumple	-2	General Inquirer Feb 2010
+runaway[a-z]*	-2	General Inquirer Feb 2010
+rupture[a-z]*	-2	General Inquirer Feb 2010
+rusty	-2	General Inquirer Feb 2010
+ruthless[a-z]*	-3	General Inquirer Feb 2010
+sabotage[a-z]*	-2	General Inquirer Feb 2010
+sad	-4	
+sadde[a-z]*	-4	
+sadly	-2	27 July 2009 - casual use= sadly, I have lost it.
+sadness	-4	
+safe[a-z]*	2	
+sag[a-z]*	-2	General Inquirer Feb 2010
+sank	-2	General Inquirer Feb 2010
+sap	-2	General Inquirer Feb 2010
+sarcas[a-z]*	-3	
+satan[a-z]*	-3	
+satisf[a-z]*	2	
+savage[a-z]*	-3	
+save[a-z]*	2	
+scald[a-z]*	-2	General Inquirer Feb 2010
+scandal[a-z]*	-3	General Inquirer Feb 2010
+scapegoat[a-z]*	-3	General Inquirer Feb 2010
+scar	-2	General Inquirer Feb 2010
+scarcity	-2	General Inquirer Feb 2010
+scare[a-z]*	-4	
+scarecrow[a-z]*	1	kev add
+scaremonger[a-z]*	-3	kev add
+scariest	-4	
+scaring	-4	
+scary	-4	
+sceptic[a-z]*	-2	
+scoff[a-z]*	-2	General Inquirer Feb 2010
+scold[a-z]*	-2	General Inquirer Feb 2010
+scorch[a-z]*	-2	General Inquirer Feb 2010
+scorn[a-z]*	-2	General Inquirer Feb 2010
+scoundrel[a-z]*	-2	General Inquirer Feb 2010
+scowl[a-z]*	-2	General Inquirer Feb 2010
+scrape	-2	General Inquirer Feb 2010
+scream[a-z]*	-4	
+screech	-2	General Inquirer Feb 2010
+screw[a-z]*	1	kev mod
+scrumptious[a-z]*	4	
+scrutinize[a-z]*	-2	General Inquirer Feb 2010
+scuffle	-2	General Inquirer Feb 2010
+scum	-3	new
+scummy	-2	new
+secede	-2	General Inquirer Feb 2010
+secession	-2	General Inquirer Feb 2010
+secrecy	-1	General Inquirer Feb 2010
+secret	-1	General Inquirer Feb 2010
+secur[a-z]*	2	
+sedentary	-2	General Inquirer Feb 2010
+seeth[a-z]*	-2	General Inquirer Feb 2010 kev mod 
+segregation	-2	General Inquirer Feb 2010
+seize	-2	General Inquirer Feb 2010
+selfish[a-z]*	-4	
+senil[a-z]*	-2	General Inquirer Feb 2010
+senseless[a-z]*	-2	General Inquirer Feb 2010
+sentimental[a-z]*	3	
+sequester[a-z]*	-2	General Inquirer Feb 2010
+serious	-2	
+seriously	-1	auto check 4 aug 2009
+seriousness	-2	
+servitude	-2	General Inquirer Feb 2010
+sever	-2	General Inquirer Feb 2010
+severe[a-z]*	-2	
+severity	-2	General Inquirer Feb 2010
+sexist	-3	Feb-11
+sexy	3	27 July 2009 auto check 4 aug 2009
+shabby	-2	General Inquirer Feb 2010
+shady	-2	General Inquirer Feb 2010
+shaggy	-2	General Inquirer Feb 2010
+shake[a-z]*	-2	
+shakespear[a-z]*	1	kev add
+shaki[a-z]*	-2	
+shaky	-2	
+shallow	-2	General Inquirer Feb 2010
+shame[a-z]*	-3	
+share	1	
+shared	1	
+shares	1	
+sharing	1	
+shark	-2	General Inquirer Feb 2010
+shipwreck[a-z]*	-2	General Inquirer Feb 2010
+shirk[a-z]*	-2	General Inquirer Feb 2010
+shit[a-z]*	-2	auto check 4 aug 2009
+shiver[a-z]*	-2	General Inquirer Feb 2010
+shock[a-z]*	-3	
+shoddy	-2	General Inquirer Feb 2010
+shook	-2	
+shoot[a-z]*	-2	General Inquirer Feb 2010
+shortage[a-z]*	-2	General Inquirer Feb 2010
+shortcoming[a-z]*	-2	General Inquirer Feb 2010
+shortsighted[a-z]*	-2	General Inquirer Feb 2010
+shot	-2	General Inquirer Feb 2010
+shove	-2	General Inquirer Feb 2010
+shred[a-z]*	-2	General Inquirer Feb 2010
+shrew	-2	General Inquirer Feb 2010
+shriek[a-z]*	-2	General Inquirer Feb 2010
+shrill[a-z]*	-2	General Inquirer Feb 2010
+shrivel[a-z]*	-2	General Inquirer Feb 2010
+shroud[a-z]*	-2	General Inquirer Feb 2010
+shun[a-z]*	-2	General Inquirer Feb 2010
+shy[a-z]*	-3	
+sick	-2	General Inquirer Feb 2010
+sicken[a-z]*	-4	
+sickly	-2	General Inquirer Feb 2010
+sickness	-2	General Inquirer Feb 2010
+siege	-2	General Inquirer Feb 2010
+silli[a-z]*	2	
+silly	-2	-2	Feb-11	
+simpleton	-2	Feb-11
+simplistic	-2	General Inquirer Feb 2010
+sin	-2	
+sincer[a-z]*	1	
+sinful	-2	General Inquirer Feb 2010
+sinister	-4	
+sins	-3	
+skank[a-z]*	-2	Feb 2011 - urbandictionary.com surfing
+skeptic[a-z]*	-2	
+sketchy	-2	General Inquirer Feb 2010
+skillful[a-z]*	2	Hannes GI add
+skirmish[a-z]*	-2	General Inquirer Feb 2010
+skulk[a-z]*	-2	General Inquirer Feb 2010
+slam[a-z]*	-2	General Inquirer Feb 2010
+slander[a-z]*	-2	Feb-11
+slap[a-z]*	-2	General Inquirer Feb 2010
+slash[a-z]*	-2	General Inquirer Feb 2010
+slaughter[a-z]*	-2	General Inquirer Feb 2010
+slayer	-2	General Inquirer Feb 2010
+sleaz[a-z]*	-3	General Inquirer Feb 2010
+sleepless[a-z]*	-2	General Inquirer Feb 2010
+slight	1	General Inquirer Feb 2010
+slime	-2	General Inquirer Feb 2010
+sloppy	-2	General Inquirer Feb 2010
+sloth	-2	General Inquirer Feb 2010
+slothful[a-z]*	-3	General Inquirer Feb 2010
+slug	-2	General Inquirer Feb 2010
+sluggish[a-z]*	-2	General Inquirer Feb 2010
+slump[a-z]*	-2	Feb-11
+slur	-2	Feb-11
+slut[a-z]*	-3	
+sly	-2	General Inquirer Feb 2010
+smack[a-z]*	-2	General Inquirer Feb 2010
+smart[a-z]*	2	
+smash	-2	General Inquirer Feb 2010
+smear[a-z]*	-2	General Inquirer Feb 2010
+smil[a-z]*	3	
+smother[a-z]*	-2	
+smug[a-z]*	-2	
+smuggle	-2	General Inquirer Feb 2010
+snare	-2	General Inquirer Feb 2010
+snarl[a-z]*	-4	General Inquirer Feb 2010
+snatch[a-z]*	-2	General Inquirer Feb 2010
+sneak[a-z]*	-2	new
+sneer[a-z]*	-2	General Inquirer Feb 2010
+snob[a-z]*	-3	
+snore[a-z]*	-2	General Inquirer Feb 2010
+sob	-4	
+sobbed	-4	
+sobbing	-4	
+sobs	-4	
+sociab[a-z]*	2	
+solemn[a-z]*	-3	
+somber[a-z]*	-2	General Inquirer Feb 2010
+sore	-2	General Inquirer Feb 2010
+soreness	-2	General Inquirer Feb 2010
+sorrow[a-z]*	-3	
+sorry	-2	29 July 2009: Changed from -3
+soulmate[a-z]*	4	
+sour[a-z]*	-2	General Inquirer Feb 2010
+spam[a-z]*	-2	
+spank	-2	General Inquirer Feb 2010
+spastic[a-z]*	-2	Feb-11
+spaz	-2	Feb-11
+spear	-2	General Inquirer Feb 2010
+special[a-z]*	2	
+spew[a-z]*	-2	Feb-11
+spill[a-z]*	-2	General Inquirer Feb 2010
+spinster[a-z]*	-2	General Inquirer Feb 2010
+spite[a-z]*	-4	
+splend[a-z]*	3	
+spoil[a-z]*	-2	General Inquirer Feb 2010
+spotless	2	Hannes GI add
+sprain[a-z]*	-2	General Inquirer Feb 2010
+sprightly	2	Hannes GI add
+sputter[a-z]*	-2	General Inquirer Feb 2010
+squander[a-z]*	-2	General Inquirer Feb 2010
+squirm[a-z]*	-3	29 June 2010: added
+stab[a-z]*	-2	General Inquirer Feb 2010
+stagnant	-2	General Inquirer Feb 2010
+stain[a-z]*	-2	General Inquirer Feb 2010
+stale	-2	General Inquirer Feb 2010
+stalemate[a-z]*	-2	General Inquirer Feb 2010
+stalled	-2	Feb-10
+stalling	-2	Feb-10
+stammer[a-z]*	-2	
+standstill	-2	General Inquirer Feb 2010
+stank	-3	
+stark	-2	General Inquirer Feb 2010
+startl[a-z]*	-2	
+starvation	-2	General Inquirer Feb 2010
+starve[a-z]*	-2	General Inquirer Feb 2010
+starving	-3	General Inquirer Feb 2010
+static	-2	General Inquirer Feb 2010
+steal[a-z]*	-3	
+stealth[a-z]*	1	kev add
+stench[a-z]*	-3	
+stern	-2	General Inquirer Feb 2010
+sternly	-2	General Inquirer Feb 2010
+stifle[a-z]*	-2	General Inquirer Feb 2010
+stigma	-2	General Inquirer Feb 2010
+sting[a-z]*	-2	General Inquirer Feb 2010
+stink[a-z]*	-3	
+stinkbird	1	kev add
+stinkhorn	1	kev add
+stinkweed	1	kev add
+stole	-2	General Inquirer Feb 2010
+stolen	-2	General Inquirer Feb 2010
+storm	-2	General Inquirer Feb 2010
+stormy	-2	General Inquirer Feb 2010
+straggle	-2	General Inquirer Feb 2010
+straggler	-2	General Inquirer Feb 2010
+strain[a-z]*	-2	
+strange	-1	
+strangle[a-z]*	-3	General Inquirer Feb 2010
+stray	-2	General Inquirer Feb 2010
+strength[a-z]*	1	
+stress[a-z]*	-2	
+stricken	-2	General Inquirer Feb 2010
+strict[a-z]*	-2	General Inquirer Feb 2010
+strife	-2	General Inquirer Feb 2010
+strike	-2	General Inquirer Feb 2010
+stringen[a-z]*	-2	General Inquirer Feb 2010
+strong[a-z]*	1	
+struck	-2	General Inquirer Feb 2010
+struggl[a-z]*	-2	
+stubborn[a-z]*	-3	
+stuffy	-2	General Inquirer Feb 2010
+stunk	-3	
+stunned	-2	
+stuns	-2	
+stunt	-2	General Inquirer Feb 2010
+stupid[a-z]*	-2	
+stupor[a-z]*	-2	General Inquirer Feb 2010
+stutter[a-z]*	-2	
+subjection	-2	General Inquirer Feb 2010
+subjugat[a-z]*	-2	General Inquirer Feb 2010
+submissive[a-z]*	-2	
+subservien[a-z]*	-2	General Inquirer Feb 2010
+subside	-2	General Inquirer Feb 2010
+substitution	1	General Inquirer Feb 2010
+subtract[a-z]*	-2	General Inquirer Feb 2010
+subversion	-2	General Inquirer Feb 2010
+subvert	-2	General Inquirer Feb 2010
+succeed[a-z]*	3	
+success[a-z]*	3	
+successiv[a-z]*	1	kev add
+successor[a-z]*	1	kev add
+succumb[a-z]*	-2	General Inquirer Feb 2010
+suck	-2	
+sucked	-2	
+sucker[a-z]*	-2	
+suckerfish	1	kev add
+sucks	-2	
+sucky	-2	
+suffer	-4	
+suffered	-4	
+sufferer[a-z]*	-4	
+suffering	-4	
+suffers	-4	
+suffocate[a-z]*	-3	General Inquirer Feb 2010
+suicide	-4	
+suk	-2	
+sullen	-2	General Inquirer Feb 2010
+sunder	-2	General Inquirer Feb 2010
+sunnier	2	
+sunniest	2	
+sunny	2	
+sunshin[a-z]*	2	
+sup	2	27 July 2009 (slang= what's up) assumes sup as in eat/drink isn't used) 
+super	3	
+superficial[a-z]*	-2	General Inquirer Feb 2010
+superfluous[a-z]*	-2	General Inquirer Feb 2010
+superior[a-z]*	3	
+superiority[a-z]*	1	kev add
+superiors	1	kev add
+superlative	4	Hannes GI add
+superstit[a-z]*	-2	General Inquirer Feb 2010
+support	2	
+supported	2	
+supporter[a-z]*	2	
+supporting	2	
+supportive[a-z]*	2	
+supports	2	
+suppress[a-z]*	-2	General Inquirer Feb 2010
+suprem[a-z]*	3	
+supremacis[a-z]*	-2	kev add
+supremo[a-z]*	1	kev add
+sure[a-z]*	1	
+suret[a-z]*	1	kev add
+surpris[a-z]*	1	
+susceptib[a-z]*	-2	General Inquirer Feb 2010
+suspect	-2	General Inquirer Feb 2010
+suspend	-2	General Inquirer Feb 2010
+suspension[a-z]*	-2	General Inquirer Feb 2010
+suspicio[a-z]*	-2	
+swear	-2	General Inquirer Feb 2010
+sweet	2	
+sweetheart[a-z]*	4	
+sweetie[a-z]*	3	
+sweetly	2	
+sweetness[a-z]*	3	
+sweets	2	
+swore	-2	General Inquirer Feb 2010
+symptom[a-z]*	-2	General Inquirer Feb 2010
+taboo[a-z]*	-2	General Inquirer Feb 2010
+taint[a-z]*	-2	General Inquirer Feb 2010
+talent[a-z]*	2	
+talentless[a-z]*	-3	kev add
+tamper[a-z]*	-2	General Inquirer Feb 2010
+tantrum[a-z]*	-3	
+tard	-2	Feb-11
+tardy	-2	General Inquirer Feb 2010
+tariff	-2	General Inquirer Feb 2010
+tatter	-2	General Inquirer Feb 2010
+taunt[a-z]*	-2	General Inquirer Feb 2010
+tax[a-z]*	-2	General Inquirer Feb 2010
+tear	-2	General Inquirer Feb 2010
+tears	-4	
+tease[a-z]*	-2	kev mod
+tedious[a-z]*	-3	General Inquirer Feb 2010 kev mod
+tehe	3	
+temper	-3	
+tempers	-1	
+tempest	-2	General Inquirer Feb 2010
+temporarily	-2	General Inquirer Feb 2010
+temptation[a-z]*	-2	General Inquirer Feb 2010
+tender[a-z]*	3	
+tenderf[a-z]*	1	kev mod
+tendergreen[a-z]*	1	kev mod
+tenderiZ[a-z]*	1	kev mod
+tendering	1	kev mod
+tenderis[a-z]*	1	kev mod
+tenderloin	1	kev mod
+tense[a-z]*	-3	
+tensing	-3	
+tension[a-z]*	-3	
+terribl[a-z]*	-4	
+terrific[a-z]*	4	
+terrified	-4	
+terrifies	-4	
+terrify	-4	
+terrifyi[a-z]*	-4	
+terror	-2	General Inquirer Feb 2010
+terror[a-z]*	-3	
+terrori[a-z]*	-3	General Inquirer Feb 2010
+thank	2	27-Jul-09
+thanked	1	
+thankf[a-z]*	2	
+thanks	2	27-Jul-09
+thanx	2	27-Jul-09
+theft	-2	General Inquirer Feb 2010
+thief	-2	
+thieve[a-z]*	-2	
+thirst	-2	General Inquirer Feb 2010
+thirsty	-2	new, thirsty
+thnx	2	27-Jul-09
+thorny	-2	General Inquirer Feb 2010
+thoughtful[a-z]*	2	
+thoughtless[a-z]*	-2	General Inquirer Feb 2010
+thrash[a-z]*	-2	General Inquirer Feb 2010
+threat[a-z]*	-3	
+thrill[a-z]*	4	
+thriller[a-z]*	2	kev mod
+thud	-2	General Inquirer Feb 2010
+thwart[a-z]*	-2	General Inquirer Feb 2010
+ticked	-1	
+timid[a-z]*	-2	
+tire	-2	General Inquirer Feb 2010
+tired	-2	General Inquirer Feb 2010
+tiresome[a-z]*	-2	General Inquirer Feb 2010
+togetherness	3	Hannes GI add
+toil	-2	General Inquirer Feb 2010
+toleran[a-z]*	2	
+tommyrot	-2	Feb-11
+topple	-2	General Inquirer Feb 2010
+torment	-2	General Inquirer Feb 2010
+torrent	-1	General Inquirer Feb 2010
+tortur[a-z]*	-4	
+torturous[a-z]*	-2	kev add
+tosser[a-z]*	-2	Feb-11
+tosspot[a-z]*	-2	Feb-11
+touchy	-2	General Inquirer Feb 2010
+tough[a-z]*	-2	
+toughness	1	kev add
+traged[a-z]*	-3	
+tragic	-3	General Inquirer Feb 2010
+tragica[a-z]* 	-2	mod
+tragicomed[a-z]*	1	kev mod
+traitor[a-z]*	-3	Feb-11
+tramp	-2	General Inquirer Feb 2010
+trample	-2	General Inquirer Feb 2010
+tranquil[a-z]*	2	
+transgress[a-z]*	-2	General Inquirer Feb 2010
+trap	-2	General Inquirer Feb 2010
+trash[a-z]*	-2	Feb-11
+trauma[a-z]*	-4	
+treacher[a-z]*	-3	General Inquirer Feb 2010
+treason[a-z]*	-3	Feb-11
+treasur[a-z]*	2	
+treasurer[a-z]*	1	kev mod
+treat	2	
+trembl[a-z]*	-3	
+trespass[a-z]*	-2	General Inquirer Feb 2010
+trick[a-z]*	-2	
+trite[a-z]*	-3	kev mod
+triumph[a-z]*	3	
+trivi[a-z]*	-2	
+trivium[a-z]*	1	kev add
+troubl[a-z]*	-2	auto check 4 aug 2009
+troubleshoot[a-z]*	1	kev mod
+truant[a-z]*	-2	General Inquirer Feb 2010
+trudg[a-z]*	-2	General Inquirer Feb 2010
+true 	2	
+truehearted	4	kev add
+truelove	5	kev mod
+trueness	2	
+truer	2	
+truest	2	
+truly	2	
+trust[a-z]*	2	
+trustee[a-z]*	1	kev add
+truth[a-z]*	2	
+turbulent[a-z]*	-2	General Inquirer Feb 2010
+turmoil	-3	
+twat	-2	Feb-11
+twit	-2	Feb-11
+twitch	-1	General Inquirer Feb 2010
+twunt	-2	Feb-11
+tyranny	-3	General Inquirer Feb 2010
+tyranous[a-z]*	-3	General Inquirer Feb 2010
+tyrant[a-z]*	-3	General Inquirer Feb 2010
+ugh	-3	
+ugl[a-z]*	-3	
+ultimatum[a-z]*	-2	General Inquirer Feb 2010
+unaccustomed	-2	General Inquirer Feb 2010
+unarm[a-z]*	1	General Inquirer Feb 2010
+unattractive[a-z]*	-3	kev mod
+unauthentic[a-z]*	-2	General Inquirer Feb 2010
+unavoidable	-2	General Inquirer Feb 2010
+unbearabl[a-z]*	-4	General Inquirer Feb 2010
+unbelievabl[a-z]*	-2	General Inquirer Feb 2010
+uncertain[a-z]*	-1	
+uncivil	-2	General Inquirer Feb 2010
+unclean	-2	General Inquirer Feb 2010
+unclear	-2	General Inquirer Feb 2010
+uncomfortabl[a-z]*	-3	
+uncontrol[a-z]*	-2	
+uncouth[a-z]*	-2	General Inquirer Feb 2010
+undependab[a-z]*	-2	General Inquirer Feb 2010
+undermine[a-z]*	-2	General Inquirer Feb 2010
+underworld[a-z]*	-2	General Inquirer Feb 2010
+undesirabl[a-z]*	-2	General Inquirer Feb 2010 kev mod
+undid	-1	General Inquirer Feb 2010
+undignified	-2	General Inquirer Feb 2010
+undo	-2	General Inquirer Feb 2010
+undone	-2	General Inquirer Feb 2010
+undue	-2	General Inquirer Feb 2010
+uneas[a-z]*	-2	
+uneasiness	-2	General Inquirer Feb 2010
+uneasy	-2	General Inquirer Feb 2010
+uneconomical	-2	General Inquirer Feb 2010
+unemployed	-2	General Inquirer Feb 2010
+unequal	-2	General Inquirer Feb 2010
+uneven	-2	General Inquirer Feb 2010
+unexpectedly	-2	General Inquirer Feb 2010
+unfair[a-z]*	-2	Feb-11
+unfaithful[a-z]*	-2	General Inquirer Feb 2010
+unfamiliar[a-z]*	-2	General Inquirer Feb 2010
+unfavorable	-2	General Inquirer Feb 2010
+unfeeling[a-z]*	-2	General Inquirer Feb 2010
+unfit	-2	General Inquirer Feb 2010
+unforeseen	-2	General Inquirer Feb 2010
+unfortunate[a-z]*	-2	
+unfriendly	-3	
+ungrateful[a-z]*	-3	
+unguarded[a-z]*	-2	General Inquirer Feb 2010
+unhapp[a-z]*	-3	
+unhealth[a-z]*	-2	General Inquirer Feb 2010
+unimportant[a-z]*	-2	
+unimpress[a-z]*	-2	
+uninformed[a-z]*	-2	General Inquirer Feb 2010
+unjust	-2	General Inquirer Feb 2010
+unjustifi[a-z]*	-3	General Inquirer Feb 2010
+unkind[a-z]*	-3	kev mod
+unlawful[a-z]*	-2	General Inquirer Feb 2010
+unlov[a-z]*	-3	
+unlucky	-2	General Inquirer Feb 2010
+unmoved	-2	General Inquirer Feb 2010
+unnatural[a-z]*	-2	General Inquirer Feb 2010
+unnecessar[a-z]*	-2	General Inquirer Feb 2010
+unnerve	-2	General Inquirer Feb 2010
+unnoticed	-2	General Inquirer Feb 2010
+unobserved	-2	General Inquirer Feb 2010
+unpleasant[a-z]*	-3	General Inquirer Feb 2010
+unpopular[a-z]*	-2	General Inquirer Feb 2010 kev mod
+unprofitable	-2	General Inquirer Feb 2010
+unprotected[a-z]*	-3	kev mod
+unqualified	-2	General Inquirer Feb 2010
+unreasonabl[a-z]*	-3	Feb-11
+unreliab[a-z]*	-2	General Inquirer Feb 2010 kev mod
+unrest	-2	General Inquirer Feb 2010
+unruly	-2	General Inquirer Feb 2010
+unsafe	-2	General Inquirer Feb 2010
+unsatisfactory	-2	General Inquirer Feb 2010
+unsavo[a-z]*	-3	
+unscrupulous[a-z]*	-2	General Inquirer Feb 2010
+unseen	-1	General Inquirer Feb 2010
+unselfish[a-z]*	3	kev mod
+unsettling	-2	General Inquirer Feb 2010
+unsound	-2	General Inquirer Feb 2010
+unspeakable[a-z]*	-2	General Inquirer Feb 2010
+unstable	-2	General Inquirer Feb 2010
+unsteadiness	-2	General Inquirer Feb 2010
+unsteady	-2	General Inquirer Feb 2010
+unsuccessful[a-z]*	-3	
+unsure[a-z]*	-1	
+untimely	-2	General Inquirer Feb 2010
+untrained	-2	General Inquirer Feb 2010
+untrue	-2	General Inquirer Feb 2010
+untrustworthy	-2	General Inquirer Feb 2010
+untruth	-2	General Inquirer Feb 2010
+unwelcom[a-z]*	-3	
+unwilling[a-z]*	-2	General Inquirer Feb 2010
+unwise	-2	General Inquirer Feb 2010
+unworthy	-2	General Inquirer Feb 2010
+upbeat	2	Hannes GI add
+upchuck	-2	Feb-11
+upheaval[a-z]*	-2	General Inquirer Feb 2010
+uprising[a-z]*	-2	General Inquirer Feb 2010
+uproar	-2	General Inquirer Feb 2010
+uproot	-2	General Inquirer Feb 2010
+upset[a-z]*	-3	
+uptight[a-z]*	-3	
+useful[a-z]*	2	
+useless[a-z]* 	-3	
+usurp[a-z]*	-2	General Inquirer Feb 2010
+vagabond[a-z]*	-2	General Inquirer Feb 2010
+vagrant[a-z]*	-2	General Inquirer Feb 2010
+vague[a-z]*	-2	General Inquirer Feb 2010
+vain	-3	
+valuabl[a-z]*	2	
+value	2	
+valued	2	
+values	2	
+valuing	2	
+vanish[a-z]*	-2	General Inquirer Feb 2010
+vanity	-2	
+vehement[a-z]*	-3	General Inquirer Feb 2010
+venerable	2	kev mod
+venerate	2	Hannes GI add
+vengeance	-3	General Inquirer Feb 2010
+venom	-4	General Inquirer Feb 2010
+venomous[a-z]*	-4	General Inquirer Feb 2010
+veto	-2	General Inquirer Feb 2010
+vex[a-z]*	-3	General Inquirer Feb 2010
+vice	-2	General Inquirer Feb 2010
+vicious[a-z]*	-4	
+victim[a-z]*	-3	
+vie	-2	General Inquirer Feb 2010
+vigor[a-z]*	1	
+vigour[a-z]*	1	
+vile[a-z]*	-4	kev mod
+villain[a-z]*	-3	
+violat[a-z]*	-4	
+violate[a-z]*	-3	General Inquirer Feb 2010
+violation[a-z]*	-2	General Inquirer Feb 2010
+violence	-4	General Inquirer Feb 2010
+violent[a-z]*	-3	
+viper[a-z]*	-2	General Inquirer Feb 2010
+virtue[a-z]*	3	
+virtuo[a-z]*	3	
+vital[a-z]*	1	
+vitalis[a-z]*	3	kev mod
+vitaliz[a-z]*	3	kev mod
+void	-2	General Inquirer Feb 2010
+volatil[a-z]*	-2	General Inquirer Feb 2010
+vom	-3	Feb-11
+vomit[a-z]*	-3	Feb-11
+vulgar	-2	General Inquirer Feb 2010
+vulnerab[a-z]*	-3	
+vulture[a-z]*	-3	
+wack	-2	Feb-11
+wail[a-z]*	-2	General Inquirer Feb 2010
+wallow[a-z]*	-2	General Inquirer Feb 2010
+wane	-2	General Inquirer Feb 2010
+wanker[a-z]*	-2	Feb-11
+wanton	-1	General Inquirer Feb 2010
+war	-3	
+warfare[a-z]*	-3	
+warlike	-2	General Inquirer Feb 2010
+warm[a-z]*	1	
+warmheart[a-z]*	4	kev add
+warmly	2	kev add
+warp[a-z]*	-2	General Inquirer Feb 2010
+warred	-3	
+warring	-3	
+wars	-3	
+wary	-2	General Inquirer Feb 2010
+wassock	-2	Feb-11
+waste[a-z]*	-2	Feb-11
+wayward	-2	General Inquirer Feb 2010
+wazzock	-2	Feb-11
+weak[a-z]*	-2	
+wealth[a-z]*	1	
+weapon[a-z]*	-2	kev mod
+weariness	-2	General Inquirer Feb 2010
+wearisome	-2	General Inquirer Feb 2010
+wee	-2	General Inquirer Feb 2010
+weed	-2	General Inquirer Feb 2010
+weep[a-z]*	-3	
+weird[a-z]*	-2	
+welcom[a-z]*	2	
+well	1	interjection
+well[a-z]*	2	
+wellies	1	kev mod
+welling[a-z]*	1	kev mod
+wells[a-z]*	1	kev mod
+wench	-2	General Inquirer Feb 2010
+wept	-4	
+whack	-2	General Inquirer Feb 2010
+whimper	-2	General Inquirer Feb 2010
+whine[a-z]*	-3	
+whining	-3	
+whip	-2	General Inquirer Feb 2010
+whore[a-z]*	-3	
+wicked[a-z]*	3	27 July 2009 (was wicked[a-z]* is -3)
+wickedn[a-z]*	-3	
+wilt	-2	General Inquirer Feb 2010
+wily	-2	General Inquirer Feb 2010
+wimp[a-z]*	-3	
+wimple[a-z]*	1	kev mod
+win	1	
+wince[a-z]*	-2	General Inquirer Feb 2010 kev mod
+winner[a-z]*	2	kev mod
+winning[a-z]*	2	kev mod
+wins	1	
+wisdom	1	
+wise[a-z]*	1	
+wiseacre	-2	kev add
+witch	-1	
+witchcraft	-2	General Inquirer Feb 2010
+withheld	-2	General Inquirer Feb 2010
+withhold[a-z]*	-2	General Inquirer Feb 2010
+woe[a-z]*	-3	kev mod
+won	1	
+wonderf[a-z]*	3	
+worn	-2	General Inquirer Feb 2010
+worr[a-z]*	-4	
+worse[a-z]*	-3	
+worship[a-z]*	2	
+worshipper[a-z]*	1	kev mod
+worst	-3	
+worthless[a-z]* 	-3	
+worthwhile	2	
+wound[a-z]*	-2	General Inquirer Feb 2010
+wow[a-z]*	3	
+wrath	-2	General Inquirer Feb 2010
+wreck[a-z]*	-2	General Inquirer Feb 2010
+wrestle	-2	General Inquirer Feb 2010
+wretch[a-z]*	-3	General Inquirer Feb 2010
+wrinkle	-2	General Inquirer Feb 2010
+writhe	-2	General Inquirer Feb 2010
+wrong	-2	
+wrong[a-z]*	-3	kev mod
+wrought	-1	General Inquirer Feb 2010
+wtf	-3	what the fuck?
+x	2	27-Jul-09
+xox[a-z]*	2	
+xx[a-z]*	2	
+xx[a-z]*	2	
+xxi[a-z]*	1	kev mod
+xxv[a-z]*	1	kev mod
+xxy	1	kev mod
+yawn	-2	General Inquirer Feb 2010
+yay	2	auto check 4 aug 2009
+yays	3	
+yearn[a-z]*	-2	
+yelp	-2	General Inquirer Feb 2010
+zest[a-z]*	2	kev add
+zestril	1	kev add
